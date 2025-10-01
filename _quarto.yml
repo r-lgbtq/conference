@@ -1,0 +1,45 @@
+project:
+  type: website
+
+execute:
+  freeze: true
+
+website:
+  title: "rainbowR conference"
+  image: images/rainbowR-square.png
+  image-alt: A square comprised of six vertical stripes, in rainbow colours, with a white horizonal stripe accross the centre containing the word rainbowR. The letters in the word 'rainbow' are also created from geometric shapes in the same six colours, are where those shapes overlap, their colours overlap too. The capital 'R' is the same R as in the R language logo. It is orange.
+  favicon: images/rainbow-hex-square.png
+  open-graph: true
+  site-url: "https://r-lgbtq.github.io/conference"
+  navbar:
+    logo: images/rainbow-hex.png
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "Code of Conduct"
+        file: CoC.qmd
+      - icon: mastodon
+        href: https://tech.lgbt/@rainbowR
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/rainbowr.org
+      - icon: github
+        href: https://github.com/r-lgbtq
+      - icon: envelope
+        href: mailto:hello@rainbowr.org
+      - icon: slack
+        href: https://rainbowr.slack.com
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rainbowr/
+
+
+format:
+  html:
+    theme: 
+      light: assets/custom_light.scss
+      dark: assets/custom_dark.scss
+    highlight-style: 
+      light: assets/rainbowr-light.theme
+      dark: assets/rainbowr-dark.theme
+
+
+
