@@ -18,6 +18,16 @@ website:
         text: Home
       - text: "Code of Conduct"
         file: CoC.qmd
+      - href: "schedule.qmd"
+        text: Schedule
+      - href: "abstracts.qmd"
+        text: Abstracts
+      - href: "workshops.qmd"
+        text: Workshops
+      - href: "committee.qmd"
+        text: Committee
+  page-footer:
+    right:
       - icon: mastodon
         href: https://tech.lgbt/@rainbowR
       - text: "{{< iconify simple-icons bluesky >}}"

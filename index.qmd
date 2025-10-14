@@ -2,6 +2,21 @@
 title: "rainbowR conference"
 ---
 
-This is a Quarto website.
+![](images/placeholder_opener_rainbow_rect.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome
+The rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are proud to have a fantastic line-up of speakers who will showcase the immense diversity of R users as well as the vast possibilities of things you can do in R. In addition to the talk, we will also be hosting virutal workshops to foster awareness in how open-source data can be used to tackle LGBQT+ issues with [s[PERSON A] Additionally, for those who are curious about R, but not sure where to start, we will also be hosting an introductory workshop presented by [PERSON B].
+
+## Important dates
+- **December 15th**: Deadline for abstract 
+- **February 25**, 2026: Workshops
+- **February 26**, 2026: Talks and Posters
+
+## Sponsored by
+
+Generously supported by the Software Sustainability Institute
+![](images/SSI_PRIMARY_small.png)
+
+
+## Contact
+Please contact PLACEHOLDEREMAIL@ EMAIL.COM

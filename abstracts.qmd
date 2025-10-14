@@ -1,0 +1,17 @@
+---
+title: "Abstracts"
+format: html
+---
+We are accepting abstracts that showcase the many ways our diverse community uses R. Share with the audience how you use R in your professional career or for personal projects. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues. The types of abstracts we are accepting include:
+
+- **Regular talks** (30 minutes)
+- **Lightning talks** (2-5 minutes) which will be pre-recorded
+- **Posters** to be presented virtually in the virtual app Gather 
+
+## Deadlines
+- **December 15th:** Submit your abstract
+- **February 15th:** Submit your pre-recorded videos (lightning talk)
+- **February 23rd:** Upload your posters to BLAH
+
+## Form
+Submit your abstract with this [form](https://www.youtube.com/watch?v=HUgwM1Ky228) 

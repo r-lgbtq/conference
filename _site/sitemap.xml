@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://r-lgbtq.github.io/conference/about.html</loc>
-    <lastmod>2025-10-01T12:56:18.632Z</lastmod>
+    <loc>https://r-lgbtq.github.io/conference/schedule.html</loc>
+    <lastmod>2025-10-14T16:04:11.477Z</lastmod>
   </url>
   <url>
-    <loc>https://r-lgbtq.github.io/conference/index.html</loc>
-    <lastmod>2025-10-01T13:11:39.049Z</lastmod>
+    <loc>https://r-lgbtq.github.io/conference/about.html</loc>
+    <lastmod>2025-10-14T12:20:58.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-lgbtq.github.io/conference/committee.html</loc>
+    <lastmod>2025-10-14T16:03:43.850Z</lastmod>
   </url>
   <url>
     <loc>https://r-lgbtq.github.io/conference/CoC.html</loc>
-    <lastmod>2025-10-01T13:09:24.731Z</lastmod>
+    <lastmod>2025-10-14T15:39:12.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-lgbtq.github.io/conference/workshops.html</loc>
+    <lastmod>2025-10-14T15:55:05.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-lgbtq.github.io/conference/index.html</loc>
+    <lastmod>2025-10-14T16:01:29.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-lgbtq.github.io/conference/abstracts.html</loc>
+    <lastmod>2025-10-14T15:54:06.764Z</lastmod>
   </url>
 </urlset>

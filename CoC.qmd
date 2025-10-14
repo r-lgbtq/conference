@@ -1,5 +1,6 @@
 ---
 title: "Code of Conduct"
+toc: true
 ---
 
 ## Our Pledge

@@ -1,0 +1,62 @@
+---
+title: "Workshop"
+---
+## An Introduction to R
+#### February 25th, 2026 (1:00 PM)
+:::: {.columns}
+::: {.column width="55%"}
+
+A gentle introduction to R and data science with Daniel Sjoberg. DANIEL'S FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Course GitHub repo**: [link]()
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+![](images/rainbow-hex.png){width=90% fig-align="center"}
+:::
+::::
+
+
+## PLACEHOLDER WORKSHOP
+#### February 25th, 2026 (1:00 PM)
+
+:::: {.columns}
+::: {.column width="55%"}
+
+PERSON's FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Course GitHub repo**: [link]()
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+![](images/rainbow-hex.png){width=90% fig-align="center"}
+:::
+::::
+
+## PLACEHOLDER WORKSHOP
+#### February 25th, 2026 (1:00 PM)
+
+:::: {.columns}
+::: {.column width="55%"}
+
+PERSON's FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Course GitHub repo**: [link]()
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+![](images/rainbow-hex.png){width=90% fig-align="center"}
+:::
+::::
