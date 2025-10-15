@@ -2,17 +2,20 @@
 title: "Abstracts"
 format: html
 ---
-We are accepting abstracts that showcase the many ways our diverse community uses R. Share with the audience how you use R in your professional career or for personal projects. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues. The types of abstracts we are accepting include:
+We are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues. 
+
+Examples of c
+
+The types of abstracts we are accepting include.
 
 - **Regular talks** (15 minutes)
 - **Lightning talks** (5 minutes, prerecorded)
 - **Data visualization** 
 
-
 ## Deadlines
-- **November 3rd, 2025 :** Submission open
-- **December 1st, 2025:** Submission closes
+- **November 3rd, 2025 :** Submission opens!
+- **December 1st, 2025:** Submission closes! 
 - **February 23rd:** Upload your posters to BLAH
 
-## Form
+## Abstract guidelines
 Submit your abstract with this [form](https://www.youtube.com/watch?v=HUgwM1Ky228) 
