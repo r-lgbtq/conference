@@ -26,6 +26,8 @@ website:
         text: Workshops
       - href: "committee.qmd"
         text: Committee
+      - href: "register.qmd"
+        text: Register
   page-footer:
     right:
       - icon: mastodon

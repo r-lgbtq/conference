@@ -1,5 +1,5 @@
 ---
-title: "R/Medicine Schedule"
+title: "Schedule"
 format: 
   html:
     code-fold: false

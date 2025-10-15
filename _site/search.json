@@ -2,7 +2,7 @@
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "R/Medicine Schedule",
+    "title": "Schedule",
     "section": "",
     "text": "This is our tentative scheduel\n\n\nCreate a table for the day of events\n\n\n\n\n\n\n\n\nWorkshop DayThursday, February 25, 2065\n\n\nStart Time\nEnd Time\nTalk\n\n\n\n\n10:00 AM\n1:00 PM\n\nAn introduction to R\nDaniel Sjoberg\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nWINDS OF WINTER\nGRRM\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nDREAM OF SPRING\nGRRM\nPLACEHOLDER NA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTalk DayFriday, February 26, 2065\n\n\nStart Time\nEnd Time\nTalk\nt_type\n\n\n\n\n10:00 AM\n10:25 AM\n\nHello world\nElla Kaye\nUniversity NA\n\nlogistic\n\n\n10:30 AM\n11:00 AM\n\nKEYNOTE BY ME\nHadley Wickham\nPosit NA\n\nkeynote\n\n\n11:00 AM\n11:30 AM\n\nGAME OF THRONES\nGRRM\nNA NA\n\ntalk\n\n\n11:30 AM\n12:00 PM\n\nCLASH OF KINGS\nGRRM\nNA NA\n\ntalk\n\n\n12:00 PM\n12:30 PM\n\nSTORM OF SWORDS\nGRRM\nNA NA\n\ntalk\n\n\n12:30 PM\n12:40 PM\n\n14 year writing Break\nGRRM\nNA NA\n\nlogistic\n\n\n1:00 PM\n1:30 PM\n\nKEYNOTE BY ME\nDanielle Navarro\nPosit NA\n\nkeynote\n\n\n1:30 PM\n1:35 PM\n\nlightning talk 1\nGRRM\nNA NA\n\nl_talk\n\n\n1:35 PM\n1:40 PM\n\nlightning talk 2\nGRRM\nNA NA\n\nl_talk"
   },
@@ -151,7 +151,7 @@
     "href": "abstracts.html#deadlines",
     "title": "Abstracts",
     "section": "Deadlines",
-    "text": "Deadlines\n\nDecember 15th: Submit your abstract\nFebruary 15th: Submit your pre-recorded videos (lightning talk)\nFebruary 23rd: Upload your posters to BLAH"
+    "text": "Deadlines\n\nNovember 3rd, 2025 : Submission open\nDecember 1st, 2025: Submission closes\nFebruary 23rd: Upload your posters to BLAH"
   },
   {
     "objectID": "abstracts.html#form",
@@ -159,5 +159,12 @@
     "title": "Abstracts",
     "section": "Form",
     "text": "Form\nSubmit your abstract with this form"
+  },
+  {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "Register",
+    "section": "",
+    "text": "Please register through this LINK"
   }
 ]
