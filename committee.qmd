@@ -5,9 +5,12 @@ title: "Committee"
 ## Organizing Committee
 
 - Ella Kaye
-- Tina Rozsos
-- Lea Gehmacher 
+- Tina Rozsos:
+    - Tina is a PhD student at the Vrije Universiteit Amsterdam in the Netherlands. Her research is on the economics of education, with a focus on using administrative data to study student outcomes. Next to her PhD, she is a Graduate Fellow at the [University College Roosevelt Data Center](https://ucrdatacenter.github.io/), where she works towards embedding data science into the curriculum and builds (interactive) tools to aid data-driven decision-making across the college. As the Data Manager of [CORE Econ](https://www.core-econ.org/), she is responsible for the data figures of multiple undergraduate economics textbooks. She uses R in all of these endeavors.
+    - [personal website](https://tinarozsos.github.io/)
+    - ![Tina Rozsos](images/tina.jpg){height=150px}
+- Lea Gehmacher
 - Daniel Sjoberg
 - Damie Pak
-- Kaitlyn Bagley-Sepsey 
+- Kaitlyn Bagley-Sepsey
 - James Williamson
