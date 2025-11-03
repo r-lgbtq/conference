@@ -2,20 +2,24 @@
 title: "Abstracts"
 format: html
 ---
-We are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues. 
+::: {.callout-tip}
+## Accepting submissions!
 
-Examples of c
+Submissions are open until December 1st, 2025!
+:::
 
-The types of abstracts we are accepting include.
+We are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. **We accept a wide range of topics, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!
 
-- **Regular talks** (15 minutes)
-- **Lightning talks** (5 minutes, prerecorded)
-- **Data visualization** 
+The types of abstracts we are accepting includes:
+
+- **Regular talks** (15-20 minutes): A traditional conference talk showcasing an R application, project, or insight. Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A.
+- **Lightning talks** (5 minutes, prerecorded): A brief, prerecorded talk showcasing an R application, project, or insight.
+
+Note, we have the option of converting regular talks into lightning talks if the regular talk is rejected.
 
 ## Deadlines
-- **November 3rd, 2025 :** Submission opens!
-- **December 1st, 2025:** Submission closes! 
-- **February 23rd:** Upload your posters to BLAH
+- **November 3rd, 2025 :** Abstract submission is open
+- **December 1st, 2025:** Abstract submission is closed
 
 ## Abstract guidelines
-Submit your abstract with this [form](https://www.youtube.com/watch?v=HUgwM1Ky228) 
+Submit your abstract with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfO0ZDs9PwMMGrp8uGmUNZmIPhzcf38JVvuYS5kuWIq6UQuLw/viewform). 

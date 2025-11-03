@@ -1,22 +1,22 @@
 ---
-title: "rainbowR conference"
+title: ""
 ---
 
 ![](images/placeholder_opener_rainbow_rect.png)
 
 ## Welcome
-The rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are proud to have a fantastic line-up of speakers who will showcase the immense diversity of R users as well as the vast possibilities of things you can do in R. In addition to the talk, we will also be hosting virutal workshops to foster awareness in how open-source data can be used to tackle LGBQT+ issues with [s[PERSON A] Additionally, for those who are curious about R, but not sure where to start, we will also be hosting an introductory workshop presented by [PERSON B].
+The rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are delighted to have an extraordinary lineup of speakers who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. In addition to the talks, we will also be hosting multiple [virutal workshop](workshops.qmd) led by experts such as using open-source data to tackle LGBQT+ issues. For those curious about R but not sure where to start, we will also be hosting an introductory workshop! Finally, we will be hosting socials where conference participants can meet other R users to connect, share experiences, and unwind.
 
 ## Important dates
-- **December 15th**: Deadline for abstract 
-- **February 25**, 2026: Workshops
-- **February 26**, 2026: Talks and Posters
+- **November 6, 2025** : Abstract submission is open
+- **December 1, 2025**: Abstract submission deadline
+- **January 9, 2026**: Abstract acceptance sent out  
+- **February 25, 2026**: Workshops
+- **February 26, 2026**: Talks 
 
 ## Sponsored by
-
 Generously supported by the Software Sustainability Institute
 ![](images/SSI_PRIMARY_small.png)
 
-
 ## Contact
-Please contact PLACEHOLDEREMAIL@ EMAIL.COM
+Please contact hello@rainbowr.org

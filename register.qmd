@@ -3,4 +3,10 @@ title: "Register"
 format: html
 ---
 
-Please register through this LINK
+::: {.callout-tip}
+## Registration will open soon!
+
+
+:::
+
+RainbowR 2026 is a free virtual event. There is no cost for registration.

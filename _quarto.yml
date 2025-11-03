@@ -16,8 +16,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: "Code of Conduct"
-        file: CoC.qmd
+      - href: "register.qmd"
+        text: Register
       - href: "schedule.qmd"
         text: Schedule
       - href: "abstracts.qmd"
@@ -26,8 +26,8 @@ website:
         text: Workshops
       - href: "committee.qmd"
         text: Committee
-      - href: "register.qmd"
-        text: Register
+      - text: "Code of Conduct"
+        file: CoC.qmd  
   page-footer:
     right:
       - icon: mastodon

@@ -4,28 +4,70 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "This is our tentative scheduel\n\n\nCreate a table for the day of events\n\n\n\n\n\n\n\n\nWorkshop DayThursday, February 25, 2065\n\n\nStart Time\nEnd Time\nTalk\n\n\n\n\n10:00 AM\n1:00 PM\n\nAn introduction to R\nDaniel Sjoberg\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nWINDS OF WINTER\nGRRM\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nDREAM OF SPRING\nGRRM\nPLACEHOLDER NA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTalk DayFriday, February 26, 2065\n\n\nStart Time\nEnd Time\nTalk\nt_type\n\n\n\n\n10:00 AM\n10:25 AM\n\nHello world\nElla Kaye\nUniversity NA\n\nlogistic\n\n\n10:30 AM\n11:00 AM\n\nKEYNOTE BY ME\nHadley Wickham\nPosit NA\n\nkeynote\n\n\n11:00 AM\n11:30 AM\n\nGAME OF THRONES\nGRRM\nNA NA\n\ntalk\n\n\n11:30 AM\n12:00 PM\n\nCLASH OF KINGS\nGRRM\nNA NA\n\ntalk\n\n\n12:00 PM\n12:30 PM\n\nSTORM OF SWORDS\nGRRM\nNA NA\n\ntalk\n\n\n12:30 PM\n12:40 PM\n\n14 year writing Break\nGRRM\nNA NA\n\nlogistic\n\n\n1:00 PM\n1:30 PM\n\nKEYNOTE BY ME\nDanielle Navarro\nPosit NA\n\nkeynote\n\n\n1:30 PM\n1:35 PM\n\nlightning talk 1\nGRRM\nNA NA\n\nl_talk\n\n\n1:35 PM\n1:40 PM\n\nlightning talk 2\nGRRM\nNA NA\n\nl_talk"
+    "text": "This is our tentative scheduel"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "rainbowR conference",
+    "section": "Welcome",
+    "text": "Welcome\nThe rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are delighted to have an extraordinary lineup of speakers who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. In addition to the talks, we will also be hosting multiple virutal workshop led by experts such as using open-source data to tackle LGBQT+ issues. For those curious about R but not sure where to start, we will also be hosting an introductory workshop! Finally, we will be hosting socials where conference participants can meet other R users to connect, share experiences, and unwind."
   },
   {
-    "objectID": "committee.html",
-    "href": "committee.html",
-    "title": "Committee",
-    "section": "",
-    "text": "Ella Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye"
+    "objectID": "index.html#important-dates",
+    "href": "index.html#important-dates",
+    "title": "rainbowR conference",
+    "section": "Important dates",
+    "text": "Important dates\n\nNovember 6, 2025 : Abstract submission is open\nDecember 1, 2025: Abstract submission deadline\nJanuary 9, 2026: Abstract acceptance sent out\n\nFebruary 25, 2026: Workshops\nFebruary 26, 2026: Talks"
   },
   {
-    "objectID": "committee.html#organizing-committee",
-    "href": "committee.html#organizing-committee",
-    "title": "Committee",
+    "objectID": "index.html#sponsored-by",
+    "href": "index.html#sponsored-by",
+    "title": "rainbowR conference",
+    "section": "Sponsored by",
+    "text": "Sponsored by\nGenerously supported by the Software Sustainability Institute"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "rainbowR conference",
+    "section": "Contact",
+    "text": "Contact\nPlease contact hello@rainbowr.org"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshop",
     "section": "",
-    "text": "Ella Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye\nElla Kaye"
+    "text": "A gentle introduction to R and data science with Daniel Sjoberg.\nCourse GitHub repo: link"
+  },
+  {
+    "objectID": "workshops.html#an-introduction-to-r",
+    "href": "workshops.html#an-introduction-to-r",
+    "title": "Workshop",
+    "section": "",
+    "text": "A gentle introduction to R and data science with Daniel Sjoberg.\nCourse GitHub repo: link"
+  },
+  {
+    "objectID": "workshops.html#workshop",
+    "href": "workshops.html#workshop",
+    "title": "Workshop",
+    "section": "WORKSHOP",
+    "text": "WORKSHOP\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
+  },
+  {
+    "objectID": "workshops.html#workshop-1",
+    "href": "workshops.html#workshop-1",
+    "title": "Workshop",
+    "section": "WORKSHOP",
+    "text": "WORKSHOP\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
+  },
+  {
+    "objectID": "workshops.html#tba",
+    "href": "workshops.html#tba",
+    "title": "Workshop",
+    "section": "TBA",
+    "text": "TBA\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
   },
   {
     "objectID": "CoC.html",
@@ -84,94 +126,45 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html and the RLadies Code of Conduct.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshop",
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "Register",
     "section": "",
-    "text": "A gentle introduction to R and data science with Daniel Sjoberg. DANIEL’S FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nCourse GitHub repo: link"
+    "text": "Registration will open soon!\n\n\n\n\n\n\nRainbowR 2026 is a free virtual event. There is no cost for registration."
   },
   {
-    "objectID": "workshops.html#an-introduction-to-r",
-    "href": "workshops.html#an-introduction-to-r",
-    "title": "Workshop",
+    "objectID": "committee.html",
+    "href": "committee.html",
+    "title": "Committee",
     "section": "",
-    "text": "A gentle introduction to R and data science with Daniel Sjoberg. DANIEL’S FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nCourse GitHub repo: link"
+    "text": "Ella Kaye\nTina Rozsos\nLea Gehmacher\nDaniel Sjoberg\nDamie Pak\nKaitlyn Bagley-Sepsey\nJames Williamson"
   },
   {
-    "objectID": "workshops.html#placeholder-workshop",
-    "href": "workshops.html#placeholder-workshop",
-    "title": "Workshop",
-    "section": "PLACEHOLDER WORKSHOP",
-    "text": "PLACEHOLDER WORKSHOP\n\nFebruary 25th, 2026 (1:00 PM)\n\n\nPERSON’s FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nCourse GitHub repo: link"
-  },
-  {
-    "objectID": "workshops.html#placeholder-workshop-1",
-    "href": "workshops.html#placeholder-workshop-1",
-    "title": "Workshop",
-    "section": "PLACEHOLDER WORKSHOP",
-    "text": "PLACEHOLDER WORKSHOP\n\nFebruary 25th, 2026 (1:00 PM)\n\n\nPERSON’s FACE GO INTO THAT HEX STICKER ON THE RIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nCourse GitHub repo: link"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "rainbowR conference",
-    "section": "Welcome",
-    "text": "Welcome\nThe rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are proud to have a fantastic line-up of speakers who will showcase the immense diversity of R users as well as the vast possibilities of things you can do in R. In addition to the talk, we will also be hosting virutal workshops to foster awareness in how open-source data can be used to tackle LGBQT+ issues with [s[PERSON A] Additionally, for those who are curious about R, but not sure where to start, we will also be hosting an introductory workshop presented by [PERSON B]."
-  },
-  {
-    "objectID": "index.html#important-dates",
-    "href": "index.html#important-dates",
-    "title": "rainbowR conference",
-    "section": "Important dates",
-    "text": "Important dates\n\nDecember 15th: Deadline for abstract\nFebruary 25, 2026: Workshops\nFebruary 26, 2026: Talks and Posters"
-  },
-  {
-    "objectID": "index.html#sponsored-by",
-    "href": "index.html#sponsored-by",
-    "title": "rainbowR conference",
-    "section": "Sponsored by",
-    "text": "Sponsored by\nGenerously supported by the Software Sustainability Institute"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "rainbowR conference",
-    "section": "Contact",
-    "text": "Contact\nPlease contact PLACEHOLDEREMAIL@ EMAIL.COM"
+    "objectID": "committee.html#organizing-committee",
+    "href": "committee.html#organizing-committee",
+    "title": "Committee",
+    "section": "",
+    "text": "Ella Kaye\nTina Rozsos\nLea Gehmacher\nDaniel Sjoberg\nDamie Pak\nKaitlyn Bagley-Sepsey\nJames Williamson"
   },
   {
     "objectID": "abstracts.html",
     "href": "abstracts.html",
     "title": "Abstracts",
     "section": "",
-    "text": "We are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues.\nExamples of c\nThe types of abstracts we are accepting include."
+    "text": "Accepting submissions!\n\n\n\nSubmissions are open until December 1st, 2025!\nWe are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. We accept a wide range of topics, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!\nThe types of abstracts we are accepting includes:\nNote, we have the option of converting regular talks into lightning talks if the regular talk is rejected."
   },
   {
     "objectID": "abstracts.html#deadlines",
     "href": "abstracts.html#deadlines",
     "title": "Abstracts",
     "section": "Deadlines",
-    "text": "Deadlines\n\nNovember 3rd, 2025 : Submission opens!\nDecember 1st, 2025: Submission closes!\nFebruary 23rd: Upload your posters to BLAH"
-  },
-  {
-    "objectID": "abstracts.html#form",
-    "href": "abstracts.html#form",
-    "title": "Abstracts",
-    "section": "Form",
-    "text": "Form\nSubmit your abstract with this form"
-  },
-  {
-    "objectID": "register.html",
-    "href": "register.html",
-    "title": "Register",
-    "section": "",
-    "text": "Please register through this LINK"
+    "text": "Deadlines\n\nNovember 3rd, 2025 : Abstract submission is open\nDecember 1st, 2025: Abstract submission is closed"
   },
   {
     "objectID": "abstracts.html#abstract-guidelines",
     "href": "abstracts.html#abstract-guidelines",
     "title": "Abstracts",
     "section": "Abstract guidelines",
-    "text": "Abstract guidelines\nSubmit your abstract with this form"
+    "text": "Abstract guidelines\nSubmit your abstract with this form."
   }
 ]
