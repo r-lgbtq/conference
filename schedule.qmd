@@ -8,4 +8,4 @@ format:
     message: false
 ---
 
-This is our tentative scheduel![](images/tentative_schedule.png)
+This is our tentative schedule![](images/tentative_schedule.png)
