@@ -9,4 +9,4 @@ format: html
 
 :::
 
-RainbowR 2026 is a free virtual event. There is no cost for registration.
+rainbowR 2026 is a free virtual event. There is no cost for registration.
