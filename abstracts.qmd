@@ -4,7 +4,6 @@ format: html
 ---
 ::: {.callout-tip}
 ## Accepting submissions!
-
 Submissions are open until December 1st, 2025!
 :::
 
@@ -12,14 +11,14 @@ We are accepting abstracts that showcase the many ways that our diverse communit
 
 The types of abstracts we are accepting includes:
 
-- **Regular talks** (15-20 minutes): A traditional conference talk showcasing an R application, project, or insight. Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A.
+- **Regular talks** (15-20 minutes): A traditional conference talk showcasing an R application, project, or insight. Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A. 
 - **Lightning talks** (5 minutes, prerecorded): A brief, prerecorded talk showcasing an R application, project, or insight.
 
-Note, we have the option of converting regular talks into lightning talks if the regular talk is rejected.
+Note, we have the option of converting regular talks into lightning talks if the regular talk is rejected!
 
 ## Deadlines
 - **November 3rd, 2025 :** Abstract submission is open
 - **December 1st, 2025:** Abstract submission is closed
 
 ## Abstract guidelines
-Submit your abstract with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfO0ZDs9PwMMGrp8uGmUNZmIPhzcf38JVvuYS5kuWIq6UQuLw/viewform). 
+Submit your abstract with this [form](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit)

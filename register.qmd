@@ -5,8 +5,6 @@ format: html
 
 ::: {.callout-tip}
 ## Registration will open soon!
-
-
 :::
 
 rainbowR 2026 is a free virtual event. There is no cost for registration.

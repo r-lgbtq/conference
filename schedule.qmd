@@ -8,4 +8,6 @@ format:
     message: false
 ---
 
-This is our tentative schedule![](images/tentative_schedule.png)
+This is our tentative schedule that is subject to change. Please note that schedules are in UTC time.
+
+![](images/tentative_schedule.png)
