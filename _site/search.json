@@ -1,66 +1,45 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "This is our tentative schedule that is subject to change. Please note that schedules are in UTC time."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "rainbowR conference",
+    "section": "Welcome",
+    "text": "Welcome\nThe rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are delighted to have an extraordinary lineup of speakers who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. In addition to the talks, we will also be hosting multiple virutal workshop led by experts such as using open-source data to tackle LGBQT+ issues. For those curious about R but not sure where to start, we will also be hosting an introductory workshop! Finally, we will be hosting socials where conference participants can meet other R users to connect, share experiences, and unwind."
+  },
+  {
+    "objectID": "index.html#important-dates",
+    "href": "index.html#important-dates",
+    "title": "rainbowR conference",
+    "section": "Important dates",
+    "text": "Important dates\n\nNovember 6, 2025 : Abstract submission is open\nDecember 1, 2025: Abstract submission deadline\nJanuary 9, 2026: Abstract acceptance sent out\n\nFebruary 25, 2026: Workshops\nFebruary 26, 2026: Talks"
+  },
+  {
+    "objectID": "index.html#sponsored-by",
+    "href": "index.html#sponsored-by",
+    "title": "rainbowR conference",
+    "section": "Sponsored by",
+    "text": "Sponsored by\nGenerously supported by the Software Sustainability Institute"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "rainbowR conference",
+    "section": "Contact",
+    "text": "Contact\nPlease contact hello@rainbowr.org"
+  },
+  {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshop",
     "section": "",
     "text": "Workshops will be on February 25th, 2026! Please stay tuned to future updates."
-  },
-  {
-    "objectID": "workshops.html#workshop",
-    "href": "workshops.html#workshop",
-    "title": "Workshop",
-    "section": "WORKSHOP",
-    "text": "WORKSHOP\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
-  },
-  {
-    "objectID": "workshops.html#workshop-1",
-    "href": "workshops.html#workshop-1",
-    "title": "Workshop",
-    "section": "WORKSHOP",
-    "text": "WORKSHOP\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
-  },
-  {
-    "objectID": "workshops.html#tba",
-    "href": "workshops.html#tba",
-    "title": "Workshop",
-    "section": "TBA",
-    "text": "TBA\n\nFebruary 25th, 2026 (TBA)\n\n\nTo be announced!\nCourse GitHub repo: link"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "This is our tentative schedule"
-  },
-  {
-    "objectID": "abstracts.html",
-    "href": "abstracts.html",
-    "title": "Abstracts",
-    "section": "",
-    "text": "Accepting submissions!\n\n\n\nSubmissions are open until December 1st, 2025!\nWe are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. We accept a wide range of topics, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!\nThe types of abstracts we are accepting includes:\nNote, we have the option of converting regular talks into lightning talks if the regular talk is rejected."
-  },
-  {
-    "objectID": "abstracts.html#deadlines",
-    "href": "abstracts.html#deadlines",
-    "title": "Abstracts",
-    "section": "Deadlines",
-    "text": "Deadlines\n\nNovember 3rd, 2025 : Abstract submission is open\nDecember 1st, 2025: Abstract submission is closed"
-  },
-  {
-    "objectID": "abstracts.html#abstract-guidelines",
-    "href": "abstracts.html#abstract-guidelines",
-    "title": "Abstracts",
-    "section": "Abstract guidelines",
-    "text": "Abstract guidelines\nSubmit your abstract with this form."
-  },
-  {
-    "objectID": "register.html",
-    "href": "register.html",
-    "title": "Register",
-    "section": "",
-    "text": "Registration will open soon!\n\n\n\n\n\n\nrainbowR 2026 is a free virtual event. There is no cost for registration."
   },
   {
     "objectID": "CoC.html",
@@ -119,6 +98,13 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html and the RLadies Code of Conduct.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
   },
   {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "Register",
+    "section": "",
+    "text": "Registration will open soon!\n\n\n\n\n\n\nrainbowR 2026 is a free virtual event. There is no cost for registration."
+  },
+  {
     "objectID": "committee.html",
     "href": "committee.html",
     "title": "Committee",
@@ -133,10 +119,24 @@
     "text": "Ella Kaye\nTina Rozsos\nLea Gehmacher\nDaniel Sjoberg\nDamie Pak\nKaitlyn Bagley-Sepsey\nJames Williamson\nKiran Phalke\nCatherine Mercer"
   },
   {
-    "objectID": "schedule_maker.html",
-    "href": "schedule_maker.html",
-    "title": "Create a table for the day of events",
+    "objectID": "abstracts.html",
+    "href": "abstracts.html",
+    "title": "Abstracts",
     "section": "",
-    "text": "library(lubridate)\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\nlibrary(gt)\n# Create HTML pattern for talk links:\nlink_style &lt;- \"color:black; font-weight:500; text-decoration:underline;\"\nhover_effect &lt;- \"onmouseover='this.style.fontStyle=\\\"none\\\"' onmouseout='this.style.fontStyle=\\\"normal\\\"'\"  # change fontStyle to \"italic\" for italic on hover\nhtml_pattern &lt;- glue::glue(\"&lt;div&gt;{{1}}&lt;br&gt;&lt;a href='{{4}}' style='{link_style}' {hover_effect}&gt;{{2}}&lt;/a&gt;&lt;br&gt;{{3}} {{4}}&lt;/div&gt;\")\n\n\n\nschedule_day_1 &lt;- dplyr::tribble(\n  ~start_time, ~end_time, ~t_title, ~t_speakers, ~t_companies, ~url_link,\n  \n  \"2026-02-25 10:00\",\n  \"2026-02-25 13:00\",\n  \"An introduction to R\",\n  \"Daniel Sjoberg\",\n  \"PLACEHOLDER\", \n   NA,\n\n  \"2026-02-25 10:00\", \n  \"2026-02-25 13:00\", \n  \"WINDS OF WINTER\", \n  \"GRRM\", \n  \"PLACEHOLDER\", \n  NA,\n\n  \"2026-02-25 10:00\", \n  \"2026-02-25 13:00\", \n  \"DREAM OF SPRING\", \n  \"GRRM\", \n  \"PLACEHOLDER\", \n  NA\n)\n\n\nCreate a table for the day of events\n\n# Create a table for the day of events\ngt(schedule_day_1) |&gt;\n  tab_header(\n    title = md(\"&lt;br&gt;Workshop Day&lt;br&gt;Thursday, February 25, 2065&lt;br&gt;&lt;br&gt;\")) |&gt; # &lt;- insert the date\n  fmt_time(columns = c(start_time, end_time), time_style = \"h_m_p\") |&gt;\n  cols_merge(\n    columns = c( t_title, t_speakers, t_companies, url_link),\n    pattern = html(html_pattern)\n  ) |&gt;\n  cols_label(\n    start_time ~ \"Start Time\",\n    end_time ~ \"End Time\",\n    t_title ~ \"Talk\"\n  ) |&gt;\n  cols_align(align = \"center\") |&gt;\n  cols_width(\n    c(start_time, end_time) ~ px(45),\n    everything() ~ px(150)\n  ) |&gt;\n  opt_align_table_header(align = \"left\") |&gt;\n  tab_options(\n    heading.background.color = \"#02b3e3\",\n    column_labels.background.color = \"#09ce7c\",\n\n    table.width = pct(100)\n  ) \n\n\n\n\n\n\n\nWorkshop DayThursday, February 25, 2065\n\n\nStart Time\nEnd Time\nTalk\n\n\n\n\n10:00 AM\n1:00 PM\n\nAn introduction to R\nDaniel Sjoberg\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nWINDS OF WINTER\nGRRM\nPLACEHOLDER NA\n\n\n\n10:00 AM\n1:00 PM\n\nDREAM OF SPRING\nGRRM\nPLACEHOLDER NA\n\n\n\n\n\n\n\n\n\n\nschedule_day_2 &lt;- dplyr::tribble(\n  ~start_time, ~end_time, ~t_title, ~t_type, ~t_speakers, ~t_companies, ~url_link,\n\n  \"2026-02-26 10:00\",\n  \"2026-02-26 10:25\",\n  \"Hello world\",\n  \"logistic\",\n  \"Ella Kaye\",\n  \"University\", \n   NA,\n\n  \"2026-02-26 10:30\",\n  \"2026-02-26 11:00\",\n  \"KEYNOTE BY ME\",\n  \"keynote\",\n  \"Hadley Wickham\",\n  \"Posit\", \n   NA,\n\n  \"2026-02-25 11:00\", \n  \"2026-02-25 11:30\", \n  \"GAME OF THRONES\", \n  \"talk\", \n  \"GRRM\",\n  NA, \n  NA,\n\n  \"2026-02-25 11:30\", \n  \"2026-02-25 12:00\", \n  \"CLASH OF KINGS\", \n  \"talk\", \n  \"GRRM\",\n  NA, \n  NA,\n\n \"2026-02-25 12:00\", \n  \"2026-02-25 12:30\", \n  \"STORM OF SWORDS\", \n  \"talk\", \n  \"GRRM\",\n  NA, \n  NA,\n\n\n \"2026-02-25 12:30\", \n \"2026-02-25 12:40\", \n  \"14 year writing Break\", \n  \"logistic\", \n  \"GRRM\",\n  NA, \n  NA,\n\n  \"2026-02-26 13:00\",\n  \"2026-02-26 13:30\",\n  \"KEYNOTE BY ME\",\n  \"keynote\",\n  \"Danielle Navarro\",\n  \"Posit\", \n   NA,\n\n \"2026-02-25 13:30\", \n \"2026-02-25 13:35\", \n  \"lightning talk 1\", \n  \"l_talk\", \n  \"GRRM\",\n  NA, \n  NA,\n\n   \"2026-02-25 13:35\", \n \"2026-02-25 13:40\", \n  \"lightning talk 2\", \n  \"l_talk\", \n  \"GRRM\",\n  NA, \n  NA,\n\n)\n\n\n# Create a table for the day of events\ngt(schedule_day_2) |&gt;\n  tab_header(\n    title = md(\"&lt;br&gt;Talk Day&lt;br&gt;Friday, February 26, 2065&lt;br&gt;&lt;br&gt;\")) |&gt; # &lt;- insert the date\n  fmt_time(columns = c(start_time, end_time), time_style = \"h_m_p\") |&gt;\n  cols_merge(\n    columns = c( t_title, t_speakers, t_companies, url_link),\n    pattern = html(html_pattern)\n  ) |&gt;\n  cols_label(\n    start_time ~ \"Start Time\",\n    end_time ~ \"End Time\",\n    t_title ~ \"Talk\"\n  ) |&gt;\n  cols_align(align = \"center\") |&gt;\n  cols_width(\n    c(start_time, end_time) ~ px(45),\n    everything() ~ px(150)\n  ) |&gt;\n  opt_align_table_header(align = \"left\") |&gt;\n  tab_options(\n    heading.background.color = \"#da3ab3\",\n    column_labels.background.color = \"#02b3e3\",\n\n    table.width = pct(100)\n  ) \n\n\n\n\n\n\n\nTalk DayFriday, February 26, 2065\n\n\nStart Time\nEnd Time\nTalk\nt_type\n\n\n\n\n10:00 AM\n10:25 AM\n\nHello world\nElla Kaye\nUniversity NA\n\nlogistic\n\n\n10:30 AM\n11:00 AM\n\nKEYNOTE BY ME\nHadley Wickham\nPosit NA\n\nkeynote\n\n\n11:00 AM\n11:30 AM\n\nGAME OF THRONES\nGRRM\nNA NA\n\ntalk\n\n\n11:30 AM\n12:00 PM\n\nCLASH OF KINGS\nGRRM\nNA NA\n\ntalk\n\n\n12:00 PM\n12:30 PM\n\nSTORM OF SWORDS\nGRRM\nNA NA\n\ntalk\n\n\n12:30 PM\n12:40 PM\n\n14 year writing Break\nGRRM\nNA NA\n\nlogistic\n\n\n1:00 PM\n1:30 PM\n\nKEYNOTE BY ME\nDanielle Navarro\nPosit NA\n\nkeynote\n\n\n1:30 PM\n1:35 PM\n\nlightning talk 1\nGRRM\nNA NA\n\nl_talk\n\n\n1:35 PM\n1:40 PM\n\nlightning talk 2\nGRRM\nNA NA\n\nl_talk"
+    "text": "Accepting submissions!\n\n\n\nSubmissions are open until December 1st, 2025!\nWe are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. We accept a wide range of topics, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!\nThe types of abstracts we are accepting includes:\nNote, we have the option of converting regular talks into lightning talks if the regular talk is rejected!"
+  },
+  {
+    "objectID": "abstracts.html#deadlines",
+    "href": "abstracts.html#deadlines",
+    "title": "Abstracts",
+    "section": "Deadlines",
+    "text": "Deadlines\n\nNovember 3rd, 2025 : Abstract submission is open\nDecember 1st, 2025: Abstract submission is closed"
+  },
+  {
+    "objectID": "abstracts.html#abstract-guidelines",
+    "href": "abstracts.html#abstract-guidelines",
+    "title": "Abstracts",
+    "section": "Abstract guidelines",
+    "text": "Abstract guidelines\nSubmit your abstract with this form"
   }
 ]
