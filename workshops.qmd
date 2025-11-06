@@ -1,11 +1,11 @@
 ---
-title: "Workshop"
+title: "Workshops"
 ---
 
 
-![](/images/tba_rainbow_hex.png){width=350px fig-align="center"}
+![](/images/stay-tuned.png)
 
-Workshops will be on **February 25th, 2026**! Please stay tuned to future updates.
+Workshops will be on **February 25th, 2026**! Please stay tuned for future updates.
 
 
 
