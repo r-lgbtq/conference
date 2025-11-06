@@ -2,10 +2,18 @@
 title: "Workshops"
 ---
 
-
 ![](/images/stay-tuned.png)
 
-Workshops will be on **February 25th, 2026**! Please stay tuned for future updates.
+Workshops will be on **February 25th, 2026**! 
+
+Topics covered (TBC):
+
+- Introduction to R
+- R package development
+- LLMs with R
+- Using R to access and explore LGBTQ+ census data
+
+Please stay tuned for future updates.
 
 
 
