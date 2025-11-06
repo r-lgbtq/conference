@@ -5,18 +5,29 @@ title: ""
 ![](images/conference-banner.png)
 
 ## Welcome
-The rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are delighted to have an extraordinary lineup of speakers who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. In addition to the talks, we will also be hosting multiple [virutal workshop](workshops.qmd) led by experts such as using open-source data to tackle LGBQT+ issues. For those curious about R but not sure where to start, we will also be hosting an introductory workshop! Finally, we will be hosting socials where conference participants can meet other R users to connect, share experiences, and unwind.
+The inaugural rainbowR virtual conference will bring together LGBTQ+ users of R to promote their work and foster connections among community members. 
+We will present an extraordinary lineup of LGBTQ+ speakers across keynotes, regular talks and lightning talks, 
+who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. 
+In addition to the talks, we will also be hosting multiple virutal [workshops](workshops.qmd) led by experts, such as on using open-source data to tackle LGBQT+ issues. 
+We will also hold virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
 
 ## Important dates
 - **November 6, 2025** : Abstract submission is open
 - **December 1, 2025**: Abstract submission deadline
 - **January 9, 2026**: Abstract acceptance sent out  
+- **February 16, 2026**: Deadline for talk recordings 
 - **February 25, 2026**: Workshops
 - **February 26, 2026**: Talks 
+
+## About rainbowR
+rainbowR is a community whose mission is to connect, support and promote LGBTQ+ R users, 
+and to spread awareness of LGBTQ+ issues through data-driven activism.
+
+Find out more at [rainbowr.org](https://rainbowr.org).
 
 ## Sponsored by
 Generously supported by the Software Sustainability Institute
 ![](images/SSI_PRIMARY_small.png)
 
 ## Contact
-Please contact hello@rainbowr.org
+Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org)
