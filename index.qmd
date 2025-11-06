@@ -26,7 +26,7 @@ and to spread awareness of LGBTQ+ issues through data-driven activism.
 Find out more at [rainbowr.org](https://rainbowr.org).
 
 ## Sponsored by
-Generously supported by the Software Sustainability Institute
+Generously supported by the [Software Sustainability Institute](https://software.ac.uk).
 ![](images/SSI_PRIMARY_small.png)
 
 ## Contact
