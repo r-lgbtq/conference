@@ -24,6 +24,8 @@ website:
         text: Abstracts
       - href: "workshops.qmd"
         text: Workshops
+      - href: "socials.qmd"
+        text: Socials
       - href: "committee.qmd"
         text: Committee
       - text: "Code of Conduct"
