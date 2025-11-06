@@ -4,21 +4,39 @@ format: html
 ---
 ::: {.callout-tip}
 ## Accepting submissions!
-Submissions are open until December 1st, 2025!
+Proposals to speak are open until December 1st, 2025!
 :::
 
-We are accepting abstracts that showcase the many ways that our diverse community uses R. Share with the audience how you use R in your professional career across all disciplines or even for personal projects. **We accept a wide range of topics, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**. Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!
+[Submit a proposal](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit){.btn .btn-primary}
+
+We are accepting proposals for talks across two strands:
+
+  - Showcasing the many ways that our diverse community uses R
+  - Working with LGBTQ+ data
+
+Share with the audience how you use R in your professional career across all disciplines, or for personal projects. 
+**We're open to talks on any R-related topic, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**. 
+Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!
+
+::: {.callout-note}
+Attendance at the conference is open to LGBTQ+ folks and allies. We expect speakers to be LGBTQ+.  
+:::
 
 The types of abstracts we are accepting includes:
 
-- **Regular talks** (15-20 minutes): A traditional conference talk showcasing an R application, project, or insight. Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A. 
-- **Lightning talks** (5 minutes, prerecorded): A brief, prerecorded talk showcasing an R application, project, or insight.
+- **Regular talks (20 minutes)**: Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A. Preferably pre-recorded.
+- **Lightning talks (5 minutes)**: A brief talk, which must be pre-recorded.
 
-Note, we have the option of converting regular talks into lightning talks if the regular talk is rejected!
+Abstracts should (up to) 150 words.
 
-## Deadlines
-- **November 3rd, 2025 :** Abstract submission is open
+## Pre-recording
+For the smooth-running of the conference, we require that all lightning talks are pre-recorded.
+We would prefer for regular talks to be pre-recorded, though we will not require this.
+
+## Key dates
+- **November 6th, 2025 :** Abstract submission is open
 - **December 1st, 2025:** Abstract submission is closed
+- **January 9, 2026**: Abstract acceptance sent out  
+- **February 16, 2026**: Deadline for talk recordings 
 
-## Abstract guidelines
-Submit your abstract with this [form](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit)
+[Submit a proposal](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit){.btn .btn-primary}
