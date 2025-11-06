@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: a2400549-8411-49e9-b399-5af9826bd2c6
-      url: https://rainbowr-conference.netlify.app
+      url: https://conference.rainbowr.org
