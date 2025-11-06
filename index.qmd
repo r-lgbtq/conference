@@ -2,7 +2,7 @@
 title: ""
 ---
 
-![](images/placeholder_opener_rainbow_rect.png)
+![](images/conference-banner.png)
 
 ## Welcome
 The rainbowR virtual conference brings together LGBTQ+ users of R to promote their work and foster connections among community members. We are delighted to have an extraordinary lineup of speakers who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. In addition to the talks, we will also be hosting multiple [virutal workshop](workshops.qmd) led by experts such as using open-source data to tackle LGBQT+ issues. For those curious about R but not sure where to start, we will also be hosting an introductory workshop! Finally, we will be hosting socials where conference participants can meet other R users to connect, share experiences, and unwind.
