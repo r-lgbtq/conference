@@ -4,7 +4,7 @@ format: html
 ---
 ::: {.callout-tip}
 ## Accepting submissions!
-Proposals to speak are open until December 1st, 2025!
+Proposals to speak are open until December 8th, 2025, midnight, [anywhere on earth](https://dateful.com/convert/aoe-anywhere-on-earth).
 :::
 
 [Submit a proposal](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit){.btn .btn-primary}
