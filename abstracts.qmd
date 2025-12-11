@@ -3,23 +3,22 @@ title: "Abstracts"
 format: html
 ---
 ::: {.callout-tip}
-## Accepting submissions!
-Proposals to speak are open until December 8th, 2025, midnight, [anywhere on earth](https://dateful.com/convert/aoe-anywhere-on-earth).
+## Submissions are now closed!
+Proposals to speak were open until December 8th, 2025, midnight, [anywhere on earth](https://dateful.com/convert/aoe-anywhere-on-earth).
+Acceptance notifications will be sent out by January 9, 2026.
 :::
-
-[Submit a proposal](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit){.btn .btn-primary}
 
 We are accepting proposals for talks across two strands:
 
   - Showcasing the many ways that our diverse community uses R
   - Working with LGBTQ+ data
 
-Share with the audience how you use R in your professional career across all disciplines, or for personal projects. 
-**We're open to talks on any R-related topic, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**. 
+Share with the audience how you use R in your professional career across all disciplines, or for personal projects.
+**We're open to talks on any R-related topic, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**.
 Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!
 
 ::: {.callout-note}
-Attendance at the conference is open to LGBTQ+ folks and allies. We expect speakers to be LGBTQ+.  
+Attendance at the conference is open to LGBTQ+ folks and allies. We expect speakers to be LGBTQ+.
 :::
 
 The types of abstracts we are accepting includes:
@@ -36,7 +35,6 @@ We would prefer for regular talks to be pre-recorded, though we will not require
 ## Key dates
 - **November 6th, 2025 :** Abstract submission is open
 - **December 8th, 2025:** Abstract submission is closed (extended from December 1st)
-- **January 9, 2026**: Abstract acceptance sent out  
-- **February 16, 2026**: Deadline for talk recordings 
+- **January 9, 2026**: Abstract acceptance sent out
+- **February 16, 2026**: Deadline for talk recordings
 
-[Submit a proposal](https://docs.google.com/forms/d/1mswciWl7d-9P_7G-g1WMwkLC8GBKRPf0kuyYOZUKSJY/edit){.btn .btn-primary}
