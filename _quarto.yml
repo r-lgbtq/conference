@@ -20,8 +20,8 @@ website:
         text: Register
       - href: "schedule.qmd"
         text: Schedule
-      - href: "abstracts.qmd"
-        text: Abstracts
+      - href: "talks.qmd"
+        text: Talks and Speakers
       - href: "workshops.qmd"
         text: Workshops
       - href: "socials.qmd"

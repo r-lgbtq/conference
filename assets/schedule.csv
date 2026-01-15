@@ -1,0 +1,15 @@
+day,time_start,time_end,event,speaker
+25/02/2026,16:00:00,18:00:00,**Workshop** [session 1 stream 1 (TBA name)](../workshops.html),TBA
+25/02/2026,16:00:00,18:00:00,**Workshop** [session 1 stream 2 (TBA name)](../workshops.html),TBA
+25/02/2026,18:00:00,19:00:00,Social event,
+25/02/2026,19:00:00,21:00:00,**Workshop** [session 2 stream 1 (TBA name)](../workshops.html),TBA
+25/02/2026,19:00:00,21:00:00,**Workshop** [session 2 stream 2 (TBA name)](../workshops.html),TBA
+26/02/2026,16:00:00,16:15:00,Introduction,Ella Kaye
+26/02/2026,16:15:00,17:00:00,"**Keynote I**<br>[Studying Queer Data While Living It:<br>Positionality, Power, and Practice](../talks.html#keynote_daphna)",Daphna Harel
+26/02/2026,17:00:00,18:00:00,[Talks I](../talks.html#talks_1),Chris Battiston<br>Jasmine Daly<br>Njoki Njuki<br>Tamires Martins
+26/02/2026,18:00:00,18:30:00,Break/social,
+26/02/2026,18:30:00,19:15:00,[Lightning talks](../talks.html#lightning_talks),TBA
+26/02/2026,19:15:00,20:15:00,[Talks II](../talks.html#talks_2),J. Audra Williams<br>Ryan Timpe<br>Joshua Gutoskie
+26/02/2026,20:15:00,20:30:00,Break,
+26/02/2026,20:30:00,21:15:00,**Keynote II**<br>[What's New with LLMs for Data Science](../talks.html#keynote_hadley),Hadley Wickham
+26/02/2026,21:15:00,21:30:00,Closing,Ella Kaye
