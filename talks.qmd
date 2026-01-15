@@ -86,6 +86,10 @@ As Statistics Canada embraces open-source technologies, migrating from proprieta
 
 ## Lightning Talks{#lightning_talks}
 
-- *Title* (Name)
-- *Title* (Name)
-- *Title* (Name)
+- *Beyond Drag Bingo: Building community at work* (Kristin Bott)
+- *Teaching Pharmacokinetics with Confidence: How R Helps Students “See” the Science* (Rafael Henry-Venson)
+- *Factor or Network? Modeling the Complexity of Gender Minority Stress in Transgender Communities* (Noah Pevie)
+- *Elevating Open Data: Creating 3D Visuals with NYC Open Climate Data* (Ursula Kaczmarek)
+- *Seeing what's missing: visualization of incomplete and imputed data* (Hanne Oberman)
+- *The Two Step Method: Accurate Record Keeping for Sex and Gender* (Trystan Washburne)
+- *pointblank, was I expecting this?* (Hannah Frick)
