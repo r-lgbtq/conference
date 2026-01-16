@@ -2,18 +2,72 @@
 title: "Workshops"
 ---
 
-![](/images/stay-tuned.png)
+## Schedule (February 25, 2026)
 
-Workshops will be on **February 25th, 2026**! 
+### Session A: 4pm–6pm UTC
 
-Topics covered (TBC):
+- **Introduction to R**
+- **If You Can Write a Function, You Can Build an R Package**
 
-- Introduction to R
-- R package development
-- LLMs with R
-- Using R to access and explore LGBTQ+ census data
+### Session B: 7pm–9pm UTC
 
-Please stay tuned for future updates.
+- **Visualising the UK's LGBTQ+ population**
+- **LLMs in R for Data Analysis**
 
+---
 
+## Introduction to R
+
+This hands-on workshop offers a supportive introduction to programming in R for participants with little to no prior coding experience. Participants will begin by learning basic programming concepts and becoming comfortable working in the RStudio environment. The workshop then introduces the tidyverse, a collection of R packages commonly used for data science, and guides learners through applying these tools to explore and visualize data. Using the CDC’s Youth Risk Behavior Surveillance data, participants will examine LGBTQ+ health-related questions while practicing core data skills. By the end of the workshop, participants will be able to import, clean, and manipulate data in R to create simple visualizations. No prior programming experience is required; Posit Cloud workspaces will be provided, so attendees do not need to install R or RStudio on their local machines.
+
+**Instructors:**  
+Allissa Dillman, PhD (/images/allissa-dillman.png)  
+Padmashri Saravanan, MHS, MSc (/images/padmashri-saravanan.png)
+
+---
+
+## Visualising the UK's LGBTQ+ population
+
+In 2021/2022 the UK censuses represented LGBTQ+ people in new ways. The aim of this workshop is to introduce participants to this data and encourage them to produce visualisations utilising it. This workshop is ran in association with the University of Edinburgh’s Gender and Sexuality Data Lab and is heavily inspired by Tidy Tuesday. In the first part of this workshop queer feminist researcher and educator, Kirstie Ken English, will explain how LGBTQ+ populations were represented in the UK censuses and discuss the data available. In the second half data visualisation expert, Nicola Rennie, will walk participants through the code of an example visualisation of the census data. This workshop is a jumping off activity as participants will be prompted to design their own visualisations and share them in the weeks following the conference on Bluesky and LinkedIn via the hashtag #VisLGBTQ. Alongside discussions of the value of visualisations the workshop will be a space to recognise the limitations in how LGBTQ+ census data has been shared. Data sets and example code will be provided to all participants.
+
+**Instructors:**  
+Kirstie Ken English (/images/kirstie-ken-english.png)  
+Nicola Rennie (/images/nicola-rennie.png)
+
+---
+
+## LLMs in R for Data Analysis
+
+LLMs can be massively useful in R workflows, when used in the right places and if you're aware of not only the benefits, but also the risks. In this hands-on workshop, you'll learn how to use LLMs programmatically in R, and come away with both the confidence to experiment and a working script that extracts data from unstructured text.
+
+We'll look at where LLMs can help, where they'll let you down, and techniques for making your results more trustworthy. You're going to leave with a practical sense of what's possible and where to be cautious.
+
+What you'll learn:
+- Getting started with LLMs in R
+- Prompt engineering for more predictable results
+- Extracting tabular data from unstructured text
+- Using LLMs to call R functions
+
+Prerequisites
+- Basic R knowledge (you're comfortable writing functions)
+- Laptop or cloud environment with R and the following packages installed: ellmer, mall
+
+**Instructor:**  
+Nic Crane (/images/nic-crane.png)
+
+---
+
+## If You Can Write a Function, You Can Build an R Package
+
+Think R packages are only for coding pros? This beginner-friendly workshop will change your mind. We’ll gently unpack what an R package actually is, why you might want one (even if you think you don’t), and how packages can make your work easier to reuse, share, and maintain.
+
+Together, we’ll build a simple R package from scratch using the {usethis} package. We’ll explore the basic structure of a package, add our own functions, write clear documentation, and check that everything works as expected. Along the way, we’ll also look at practical ways to share your package with others.
+
+By the end of the session, you’ll have a working R package, a clearer mental model of how packages work, and the confidence to keep building.
+
+To take part in the interactive parts of the workshop, you'll need to install a few packages in advance. Full details about the workshop, prerequisites, and computer set-up are available on the workshop website:  
+https://statsrhian.github.io/build-r-pkg/
+
+**Instructor:**  
+Rhian Davies (/images/rhian-davies.png)
 
