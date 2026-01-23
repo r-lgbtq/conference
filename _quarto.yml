@@ -59,6 +59,7 @@ format:
     highlight-style:
       light: assets/rainbowr-light.theme
       dark: assets/rainbowr-dark.theme
+    include-in-header: _includes/plausible.html
 
 
 
