@@ -26,8 +26,14 @@ and to spread awareness of LGBTQ+ issues through data-driven activism.
 Find out more at [rainbowr.org](https://rainbowr.org).
 
 ## Sponsored by
-Generously supported by the [Software Sustainability Institute](https://software.ac.uk).
+Generously supported by the [Software Sustainability Institute](https://software.ac.uk) and [Jumping Rivers](https://www.jumpingrivers.com).
+
+::: {layout="[[55, -5, 40]]"}
+
 ![](images/SSI_PRIMARY_small.png)
+
+![](images/JumpingRivers_Primary.png)
+:::
 
 ## Contact
 Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org)
