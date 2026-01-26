@@ -1,0 +1,15 @@
+day,time_start,time_end,event,speaker
+25/02/2026,16:00:00,18:00:00,**Workshop (Session A)**<br>[Introduction to R](../workshops.html),Allissa Dillman<br>Padmashri Saravanan
+25/02/2026,16:00:00,18:00:00,"**Workshop (Session A)**<br>[If you can write a function, you can build an R package](../workshops.html)",Rhian Davies
+25/02/2026,18:00:00,19:00:00,Quiz and social,
+25/02/2026,19:00:00,21:00:00,**Workshop (Session B)**<br>[LLMs in R for data analysis](../workshops.html),Nic Crane
+25/02/2026,19:00:00,21:00:00,**Workshop (Session B)**<br>[Visualising the UK’s LGBTQ+ population](../workshops.html),Kirstie Ken English<Nicola Rennie>
+26/02/2026,16:00:00,16:15:00,Introduction,Ella Kaye
+26/02/2026,16:15:00,17:00:00,"**Keynote**<br>[Studying Queer Data While Living It:<br>Positionality, Power, and Practice](../talks.html#keynote_daphna)",Daphna Harel
+26/02/2026,17:00:00,18:00:00,[Talks I](../talks.html#talks_1),Chris Battiston<br>Jasmine Daly<br>Tamires Martins<br>Njoki Njuki
+26/02/2026,18:00:00,18:30:00,Break/social,
+26/02/2026,18:30:00,19:15:00,[Lightning talks](../talks.html#lightning_talks),Kristin Bott<br>Hannah Frick<br>Rafael Henry-Venson<br>Ursula Kaczmarek<br>Hanne Oberman<br>Noah Pevie<br>Trystan Washburne
+26/02/2026,19:15:00,20:15:00,[Talks II](../talks.html#talks_2),Joshua Gutoskie<br>Ryan Timpe<br>J. Audra Williams
+26/02/2026,20:15:00,20:30:00,Break,
+26/02/2026,20:30:00,21:15:00,**Keynote**<br>[What's New with LLMs for Data Science](../talks.html#keynote_hadley),Hadley Wickham
+26/02/2026,21:15:00,21:30:00,Closing,Ella Kaye

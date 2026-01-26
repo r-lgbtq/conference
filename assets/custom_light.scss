@@ -244,3 +244,38 @@ or another dropdown is introduced, this CSS will need updating.
 .dropdown-item.quarto-navbar-tools-item:hover {
   background-color: $yellow;
 }
+
+/*-- scss:rules --*/
+
+// GT table styling for light mode
+.gt_table {
+  background-color: $body-bg !important;
+  //color: #212529 !important;
+}
+
+.gt_col_heading {
+  background-color: $blue !important;
+  color: $very-dark-blue !important;
+  border-bottom: 2px solid $blue !important;
+  font-weight: 700 !important;
+}
+
+.gt_row {
+  background-color: $body-bg !important;
+  //color: #212529 !important;
+  border-bottom: 3px solid #dee2e6 !important;
+}
+
+.gt_table_body {
+  border-top-color: #dee2e6 !important;
+  line-height: 1.4
+}
+
+.gt_sourcenote {
+  background-color: white !important;
+  color: #212529 !important;
+}
+
+.gt_footnote {
+  background-color: $body-bg !important;
+}
