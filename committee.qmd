@@ -2,13 +2,13 @@
 title: "Committee"
 ---
 
-## Organizing Committee
+*Arranged alphabetically by first name*
 
-- [Ella Kaye](https://ellakaye.co.uk)
-- [Tina Rozsos](https://tinarozsos.github.io/)
-- [Lea Gehmacher](https://www.linkedin.com/in/lea-gehmacher/)
-- [Daniel Sjoberg](https://www.danieldsjoberg.com)
-- [Damie Pak](https://pakdamie.github.io)
-- [Katlyn Bagley-Sepsey](https://www.linkedin.com/in/katlyn-bagley-sepsey)
-- [James Williamson](https://bsky.app/profile/northernmaps.bsky.social)
 - [Catherine Mercer](https://www.stir.ac.uk/people/1667811)
+- [Damie Pak](https://pakdamie.github.io)
+- [Daniel Sjoberg (advisory)](https://www.danieldsjoberg.com)
+- [Ella Kaye (chair)](https://ellakaye.co.uk)
+- [James Williamson](https://bsky.app/profile/northernmaps.bsky.social)
+- [Katlyn Bagley-Sepsey](https://www.linkedin.com/in/katlyn-bagley-sepsey)
+- [Lea Gehmacher](https://www.linkedin.com/in/lea-gehmacher/)
+- [Tina Rozsos](https://tinarozsos.github.io/)
