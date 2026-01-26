@@ -205,3 +205,39 @@ or another dropdown is introduced, this CSS will need updating.
     background-color: $yellow;
     color: $very-dark-blue;
 }
+
+/*-- scss:rules --*/
+
+// GT table styling for dark mode
+.gt_table {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}
+
+.gt_col_heading {
+  background-color: $green !important;
+  color: $very-dark-blue !important;
+  border-bottom: 2px solid $green !important;
+  font-weight: 700 !important;
+}
+
+.gt_row {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+  border-bottom: 3px solid $dark-blue !important;
+}
+
+.gt_table_body {
+  border-top-color: $dark-blue !important;
+}
+
+.gt_sourcenote {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}
+
+
+.gt_footnote {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}

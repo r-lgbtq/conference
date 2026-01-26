@@ -10,10 +10,9 @@ execute:
 
 The rainbowR conference will run over two days, February 25-26, 2026.
 The full schedule is shown, with links to talk descriptions.
-Note that the schedule is tentative and subject to change.
 
-By default, all times are shown in UTC.
-Use the options below to view the schedule in other timezones.
+By default, the times are shown in UTC.
+Use the options below to view the schedule in other timezones (click on the trianges by the timezones to collapse/expand the sections).
 
 ```{r}
 library(dplyr)
@@ -45,9 +44,10 @@ schedule_table <- function(date, tz) {
     fmt_markdown(c(Event, Speaker)) |>
     cols_align(everything(), align = "left") |>
     sub_missing(missing_text = "") |>
-    opt_stylize(style = 3, color = "pink") |>
+    #opt_stylize(style = 3, color = "pink") |>
     tab_options(
-      table.width = pct(100)
+      table.width = pct(100),
+      column_labels.background.color = "#02B3E3",
     )
 }
 
@@ -71,7 +71,6 @@ schedule_tables <- function(tz = "UTC", open = FALSE) {
 ::: {.cell}
 ```{css}
 summary {
-  font-size: 1.5em;
   font-weight: bold;
   margin-bottom: 0.5em;
 }
