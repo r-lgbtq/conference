@@ -90,14 +90,19 @@ LLMs can be massively useful in R workflows, when used in the right places and i
 We'll look at where LLMs can help, where they'll let you down, and techniques for making your results more trustworthy. You're going to leave with a practical sense of what's possible and where to be cautious.
 
 What you'll learn:
+
 - Getting started with LLMs in R
 - Prompt engineering for more predictable results
 - Extracting tabular data from unstructured text
 - Using LLMs to call R functions
 
 Prerequisites
+
 - Basic R knowledge (you're comfortable writing functions)
 - Laptop or cloud environment with R and the following packages installed: ellmer, mall
+- An API key for an LLM provider
+
+See the workshop webpage, <https://thisisnic.github.io/rainbowrworkshop/>, for further details, including how to register for an API key from an LLM provider.
 
 **Instructor:**  
 
