@@ -9,7 +9,7 @@ toc: true
 We are happy to welcome Daphna Harel and Hadley Wickham as our keynote speakers!
 
 ### Daphna Harel{#keynote_daphna}
-*Studying Queer Data While Living It: Positionality, Power, and Practice*
+*Studying queer data while living it: Positionality, power, and practice*
 
 ![](images/daphna-keynote.png)
 
@@ -17,7 +17,7 @@ We are happy to welcome Daphna Harel and Hadley Wickham as our keynote speakers!
 What does it mean to study queer data while also living the identities those data attempt to capture? In this talk, I reflect on the opportunities and tensions that arise when queer researchers work with data about queer lives. I explore three interconnected themes. First, positionality: who I am in relation to the data, and how my identity shapes what I see. Second, data as power: who gets counted, categorized, funded, and believed. Finally, practice: how these realities shape what we actually do as researchers. I discuss general practice as a quantitative researcher and explore these themes through a case study drawn from my own experiences designing and analyzing measures of sexual orientation and gender identity (SOGI) in survey research.
 
 ### Hadley Wickham{#keynote_hadley}
-*What’s New with LLMs for Data Science (title TBC)*
+*What’s new with LLMs for data science (title TBC)*
 
 ![](images/hadley-keynote.png)
 
@@ -31,19 +31,19 @@ Open the sections below to read the talk abstracts.
 ### Talks Session I{#talks_1}
 
 ::: {.callout-note collapse=true icon=false appearance="simple"}
-### *Intersectionality in LGBTQ+ Health Research: Practical Analysis in R Using Upset Plots*<br>**Chris Battiston**
+### *Intersectionality in LGBTQ+ health research: Practical analysis in R Using upset plots*<br>**Chris Battiston**
 **Abstract:**
 Intersectionality plays a critical role in understanding LGBTQ+ health, yet most analytic workflows still treat identities like gender, orientation, race, and socioeconomic status as isolated variables. This talk focuses on a practical approach for exploring overlapping identities in clinical and community health datasets using R. I’ll demonstrate how to prepare intersectional data structures, generate membership indicators, and apply UpSet Plots to visualize complex combinations that traditional summaries or Venn diagrams can’t capture. The session highlights how these methods surface disparities in participation, missingness, lab values, and patient-reported outcomes that are often invisible in standard analysis. By grounding the discussion in real analytic challenges, the talk shows how intersectional R workflows support more accurate, inclusive, and ethically responsible health research. Participants will leave with reproducible code examples, practical visualization techniques, and a clear path to integrating intersectional analysis into their own work.
 :::
 
 ::: {.callout-caution collapse=true icon=false appearance="simple"}
-### *High, Low, Jack, & Claude: AI-Assisted Shiny Development*<br>**Jasmine Daly**
+### *High, Low, Jack, & Claude: AI-assisted Shiny development*<br>**Jasmine Daly**
 **Abstract:**
 Bringing a card game from the dining table to the browser means translating shuffled decks, shouted bids, and partnership dynamics into code (a perfect challenge for AI-assisted development). In this talk, I use Claude Code to build a Pitch (Setback) Shiny app, exploring when AI suggestions hit and when they miss the mark entirely. Pitch is a partnership trick-taking game, making it a natural metaphor for human-AI collaboration: reading your partner's signals, knowing when to lead, and occasionally getting set back. I'll cover the technical journey (game state management, reactive logic, UI design) alongside candid reflections on the AI collaboration itself. Expect card game nostalgia, a working Shiny app, and practical takeaways for anyone curious about integrating AI into their R workflow.
 :::
 
 ::: {.callout-warning collapse=true icon=false appearance="simple"}
-### *Queer Stories Through Data: Lighting LGBTQ+ Cinema with R and Shiny*<br>**Njoki Njuki and Tamires Martins**
+### *Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny*<br>**Njoki Njuki and Tamires Martins**
 **Abstract:**
 Queer stories have existed in film since the earliest decades of cinema, yet identifying and analysing them at scale remains challenging. Queer cinema reflects the social status and lived realities of LGBTQIA+ communities by portraying how norms, power structures, and cultural expectations shape identities and relationships. However, public movie databases often provide incomplete or inconsistently applied metadata, and queer-focused datasets are limited. This project addresses these gaps through the LGBTQ+ Movies Explorer, a Shiny application built in R that visualises patterns of LGBTQ+ representation in films worldwide.
 The app uses the openly available tidyrainbow LGBTQ+ Movie Database, curated by the R-LGBTQ+ community and derived from TMDb metadata spanning 1882–2022. Through tidyverse workflows, text-mining techniques, and interactive visualisation tools, users can explore LGBTQ+ themes across time, genres, languages, and narrative descriptions. A built-in chatbot assistant supports conversational queries about individual films.
@@ -53,7 +53,7 @@ Inspired by rainbowR’s focus on visibility and inclusion, the app offers an ac
 ### Talks Session II{#talks_2}
 
 ::: {.callout-tip collapse=true icon=false appearance="simple"}
-### *Belonging is Political: Measuring Queer Sense of Belonging in Higher Ed Using R*<br> **J. Audra Williams**
+### *Belonging is political: Measuring queer sense of belonging in Higher Ed using R*<br> **J. Audra Williams**
 **Abstract:**
 This talk introduces the development of an 18-item instrument examining how queer students, staff, and faculty experience belonging within U.S. higher education institutions. Grounded in intersectionality, the survey captures four critical dimensions: Sociopolitical Awareness and Collective Identity, Community Engagement and Participation, Sense of Community and Connection, and Interpersonal Support Networks. We recognize that racism, ableism, transphobia, and classism create vastly different realities for diverse queer communities, making multidimensional measurement crucial. The instrument offers insights by institutional role and includes open-ended demographic questions to honor authentic self-identification. The presentation then opens a discussion on how R can serve as a powerful tool for psychometric validation to ensure the instrument accurately captures belonging experiences across the diverse queer community.
 :::
@@ -66,7 +66,7 @@ As Statistics Canada embraces open-source technologies, migrating from proprieta
 :::
 
 ::: {.callout-note collapse=true icon=false appearance="simple"}
-### *The Cheesecake ROI: Building a Marketing Mix Model with Tidymodels and The Golden Girls*<br>[**Ryan Timpe**](speakers.qmd#ryan-timpe)
+### *The cheesecake ROI: Building a marketing mix model with tidymodels and The Golden Girls*<br>[**Ryan Timpe**](speakers.qmd#ryan-timpe)
 
 #### Abstract
 Rose and Sophia's Cheesecake business is booming, but they need to optimize their marketing budget!
@@ -82,10 +82,10 @@ Whether you're new to R, Tidymodels, or MMM, you will leave with the foundationa
 
 ## Lightning Talks{#lightning_talks}
 
-- *Beyond Drag Bingo: Building community at work*<br>**Kristin Bott**
-- *Teaching Pharmacokinetics with Confidence: How R Helps Students “See” the Science*<br>**Rafael Henry-Venson**
-- *Factor or Network? Modeling the Complexity of Gender Minority Stress in Transgender Communities*<br>**Noah Pevie**
-- *Elevating Open Data: Creating 3D Visuals with NYC Open Climate Data*<br>**Ursula Kaczmarek**
-- *Seeing what's missing: visualization of incomplete and imputed data*<br>**Hanne Oberman**
-- *The Two Step Method: Accurate Record Keeping for Sex and Gender*<br>**Trystan Washburne**
+- *Beyond drag bingo: Building community at work*<br>**Kristin Bott**
+- *Teaching pharmacokinetics with confidence: How R helps students “see” the science*<br>**Rafael Henry-Venson**
+- *Factor or network? Modeling the complexity of gender minority stress in transgender communities*<br>**Noah Pevie**
+- *Elevating open data: Creating 3D visuals with NYC ppen climate data*<br>**Ursula Kaczmarek**
+- *Seeing what's missing: Visualization of incomplete and imputed data*<br>**Hanne Oberman**
+- *The Two Step Method: Accurate record keeping for sex and gender*<br>**Trystan Washburne**
 - *pointblank, was I expecting this?*<br>**Hannah Frick**

@@ -2,7 +2,11 @@
 title: Speakers
 toc: true
 ---
+*Arranged alphabetically by first name*
+
 ## Ryan Timpe
+
+[The cheesecake ROI: Building a marketing mix model with tidymodels and The Golden Girls (Talks Session 2)](talks.qmd#talks_2)
 
 ![](images/people/ryan-timpe.jpeg){width="30%"}
 
