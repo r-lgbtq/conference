@@ -1,5 +1,5 @@
 ---
-title: "Talks and Speakers"
+title: "Talks"
 format: html
 toc: true
 ---
@@ -66,8 +66,9 @@ As Statistics Canada embraces open-source technologies, migrating from proprieta
 :::
 
 ::: {.callout-note collapse=true icon=false appearance="simple"}
-### *The Cheesecake ROI: Building a Marketing Mix Model with Tidymodels and The Golden Girls*<br>**Ryan Timpe**
-**Abstract:**
+### *The Cheesecake ROI: Building a Marketing Mix Model with Tidymodels and The Golden Girls*<br>[**Ryan Timpe**](speakers.qmd#ryan-timpe)
+
+#### Abstract
 Rose and Sophia's Cheesecake business is booming, but they need to optimize their marketing budget!
 
 In this talk, I’ll use the Tidymodels ecosystem in R to construct a comprehensive Marketing Mix Model (MMM). We will move beyond simple linear regression to:

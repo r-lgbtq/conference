@@ -21,7 +21,9 @@ website:
       - href: "schedule.qmd"
         text: Schedule
       - href: "talks.qmd"
-        text: Talks and Speakers
+        text: Talks
+      - href: "speakers.qmd"
+        text: Speakers
       - href: "workshops.qmd"
         text: Workshops
       - href: "socials.qmd"

@@ -1,0 +1,14 @@
+---
+title: Speakers
+toc: true
+---
+## Ryan Timpe
+
+![](images/people/ryan-timpe.jpeg){width="30%"}
+
+A lifelong enthusiast of math and those iconic plastic bricks, Ryan has been a data scientist at the LEGO Group since 2019. In this role, he uses R and python to construct models to optimize sales and marketing strategies and then promotes their value across the organization. In his spare time, he enjoys backflipping at gymnastics and watching classic sitcoms.
+
+[{{< iconify mynaui:globe >}} Website](https://www.ryantimpe.com/){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/ryantimpe){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/ryantimpe.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/ryantimpe/){.btn .icon-link}
