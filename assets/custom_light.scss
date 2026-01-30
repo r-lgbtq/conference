@@ -279,3 +279,25 @@ or another dropdown is introduced, this CSS will need updating.
 .gt_footnote {
   background-color: $body-bg !important;
 }
+
+// icon-links
+.icon-link, div.quarto-about-jolla .about-link {
+    background-color: transparent;
+    color: $pink;
+    border: 2px solid;
+    border-color: $pink;
+    padding: 5px .4rem 5px .4rem !important;
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px; 
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon-link:hover, div.quarto-about-jolla .about-link:hover{
+    background-color: $pink;
+    color: $body-bg;
+    border-color: $pink;
+    text-decoration: none;
+}
