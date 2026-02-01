@@ -87,5 +87,5 @@ Whether you're new to R, Tidymodels, or MMM, you will leave with the foundationa
 - *Factor or network? Modeling the complexity of gender minority stress in transgender communities*<br>**Noah Pevie**
 - *Elevating open data: Creating 3D visuals with NYC ppen climate data*<br>**Ursula Kaczmarek**
 - *Seeing what's missing: Visualization of incomplete and imputed data*<br>**Hanne Oberman**
-- *The Two Step Method: Accurate record keeping for sex and gender*<br>**Trystan Washburne**
+- *The two step method: Accurate record keeping for sex and gender*<br>**Trystan Washburne**
 - *pointblank, was I expecting this?*<br>**Hannah Frick**
