@@ -5,25 +5,27 @@ title: ""
 ![](images/conference-banner.png)
 
 ## Welcome
-The inaugural [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQIA+ users of R to promote their work and foster connections among community members. 
-We have an excellent lineup of LGBTQIA+ [speakers](talks.qmd) across keynotes, regular talks and lightning talks, 
+The inaugural [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQIA+ users of R, and their allies, to promote their work and foster connections amongst the community. 
+We have an excellent lineup of LGBTQIA+ [speakers](speakers.qmd) across keynotes, regular talks and lightning talks, 
 who will showcase the immense diversity of R users as well as the vast possibilities of what you can do in R. 
 In addition to the talks, we will also be hosting four virtual [workshops](workshops.qmd) led by experts. 
 We will also hold virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
 
-## Important dates
-- **November 6, 2025** : Abstract submission is open
-- **December 8, 2025**: Abstract submission deadline (extended from Dececmber 1)
-- **January 9, 2026**: Abstract acceptance sent out  
-- **February 16, 2026**: Deadline for talk recordings 
-- **February 25, 2026**: Workshops
-- **February 26, 2026**: Talks 
+## Who is the conference for?
+The conference is for *anyone* interested in R and/or analysing data to understand LGBTQ+ issues.
+The majority of speakers are LGBTQ+, but you do *not* have to be LGBTQ+ to attend.
 
 ## About rainbowR
 rainbowR is a community whose mission is to connect, support and promote LGBTQ+ R users, 
 and to spread awareness of LGBTQ+ issues through data-driven activism.
 
 Find out more at [rainbowr.org](https://rainbowr.org).
+
+## Important dates (upcoming)
+- **February 16, 2026**: Deadline for talk recordings 
+- **February 21, 2026**: Registration closes
+- **February 25, 2026**: Workshops
+- **February 26, 2026**: Talks 
 
 ## Sponsored by
 Generously supported by the [Software Sustainability Institute](https://software.ac.uk) and [Jumping Rivers](https://www.jumpingrivers.com).
