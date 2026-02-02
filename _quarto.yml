@@ -52,12 +52,6 @@ website:
         href: https://rainbowr.slack.com
       - icon: linkedin
         href: https://www.linkedin.com/company/rainbowr/
-  # announcement:
-  #   icon: people-fill
-  #   dismissable: true
-  #   content: "**Call for submissions now closed.** Thank you for your submissions!"
-  #   type: primary
-  #   position: below-navbar
 
 format:
   html:

@@ -102,7 +102,7 @@ Joshua Gutoskie is a senior methodologist at Statistics Canada, specializing in 
 
 I am a pharmacology and forensic toxicology expert with a career spanning the Brazilian Scientific Police, HTA consultancy, and academia. Currently, I balance teaching and research with Equality, Diversity, and Inclusion (EDI) leadership, which earned me a shortlisting for the 2025 THE Awards for Outstanding Contribution to EDI for my Rainbow Office Hours initiative. Beyond the classroom, I contribute to the global scientific community as an HTA consultant and Academic Editor for PLoS One.
 
-[{{< iconify simple-icons:linktree >}} LinkTree](ttps://linktr.ee/rafaelvenson){.btn .icon-link}
+[{{< iconify simple-icons:linktree >}} LinkTree](https://linktr.ee/rafaelvenson){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/rafael-venson/){.btn .icon-link}
 
 ## Ryan Timpe
