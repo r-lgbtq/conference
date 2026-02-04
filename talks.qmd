@@ -6,22 +6,26 @@ toc: true
 
 ## Keynotes
 
-We are happy to welcome Daphna Harel and Hadley Wickham as our keynote speakers!
+We are happy to welcome **Daphna Harel** and **Hadley Wickham** as our keynote speakers!
 
-### Daphna Harel{#keynote_daphna}
-*Studying queer data while living it: Positionality, power, and practice*
+### Studying queer data while living it: Positionality, power, and practice
+[**Daphna Harel**](speakers.qmd#daphna-harel)
 
 ![](images/daphna-keynote.png)
 
 **Abstract:**
 What does it mean to study queer data while also living the identities those data attempt to capture? In this talk, I reflect on the opportunities and tensions that arise when queer researchers work with data about queer lives. I explore three interconnected themes. First, positionality: who I am in relation to the data, and how my identity shapes what I see. Second, data as power: who gets counted, categorized, funded, and believed. Finally, practice: how these realities shape what we actually do as researchers. I discuss general practice as a quantitative researcher and explore these themes through a case study drawn from my own experiences designing and analyzing measures of sexual orientation and gender identity (SOGI) in survey research.
 
-### Hadley Wickham{#keynote_hadley}
-*What’s new with LLMs for data science (title TBC)*
+
+### Claude Code for R
+[**Hadley Wickham**](speakers.qmd#hadley-wickham)
 
 ![](images/hadley-keynote.png)
 
-**Abstract:** TBA
+**Abstract:**
+If you've been paying attention to software engineering social media lately, you might have noticed a lot of noise about Claude Code and the Opus 4.5 model. For me personally, these have pushed AI coding assistance from a "nice to have" to something that feels just as important as git.
+
+In this talk, I'll show you a couple of my "vibe" coded experiments, but more importantly show you how Claude Code helps me write higher-quality R code faster. I've used it a bunch recently for both testthat and dbplyr, two large, well-established code bases where quality is more important than velocity.
 
 ## Regular talks
 
@@ -82,7 +86,7 @@ Whether you're new to R, Tidymodels, or MMM, you will leave with the foundationa
 
 ## Lightning Talks{#lightning_talks}
 
-- *Beyond drag bingo: Building community at work*<br>[**Kristin Bott**](speakers.qmd#kirstin-bott)
+- *Beyond drag bingo: Building community at work*<br>[**Kristin Bott**](speakers.qmd#kristin-bott)
 - *Teaching pharmacokinetics with confidence: How R helps students “see” the science*<br>[**Rafael Henry-Venson**](speakers.qmd#rafael-henry-venson)
 - *Factor or network? Modeling the complexity of gender minority stress in transgender communities*<br>[**Noah Pevie**](speakers.qmd#noah-pevie)
 - *Elevating open data: Creating 3D visuals with NYC ppen climate data*<br>[**Ursula Kaczmarek**](speakers.qmd#ursula-kaczmarek)

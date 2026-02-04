@@ -2,48 +2,47 @@
 title: Speakers
 toc: true
 ---
-*Arranged alphabetically by first name*
+*Arranged alphabetically by first name, within talk category*
 
-## Chris Battiston
+## Keynote speakers
 
-[Intersectionality in LGBTQ+ health research: Practical analysis in R Using upset plots (Talks Session 1)](talks.qmd#talks_1)
+### Daphna Harel
+
+[Studying queer data while living it: Positionality, power, and practice](talks.qmd#daphna-harel)
+
+![](images/people/daphna-harel.png){.person-img width="30%"}
+
+Daphna Harel (she/her) is an Associate Professor of Applied Statistics at the Steinhardt School of Culture, Education, and Human Development at New York University. Her research focuses on survey design and analysis, particularly in situations where obtaining meaningful measurements is hard. She aims to improve the quality of survey research by designing better questions, reducing burden on survey respondents, and providing better and more advanced methods for data analysis. Daphna believes that statistical analysis should be conducted in an effort to improve society and quality of life for all people. Her recent work with the NYU QUEER data lab focuses on work at the intersection of LGBTQIA+ lives and statistics, developing new methods to better understand and serve the community. 
+
+[{{< iconify mynaui:globe >}} Website](https://steinhardt.nyu.edu/people/daphna-harel){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/daphna.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/daphna-harel-061b9441/){.btn .icon-link}
+
+### Hadley Wickham
+
+[Claude Code for R](talks.qmd#hadley-wickham)
+
+![](images/people/hadley-wickham.jpeg){.person-img width="30%"}
+
+Hadley is Chief Scientist at Posit PBC, winner of the 2019 COPSS award, and a member of the R Foundation. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (like the tidyverse, which includes ggplot2, dplyr, and tidyr)and principled software development (e.g. roxygen2, testthat, and pkgdown). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, <http://hadley.nz>.
+
+[{{< iconify mynaui:globe >}} Website](http://hadley.nz){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/hadley.nz){.btn .icon-link}
+
+## Regular talk speakers
+
+### Chris Battiston
+
+[Intersectionality in LGBTQ+ health research: Practical analysis in R Using upset plots)](talks.qmd#talks_1)
 
 Chris has over 20 years’ experience as a database administrator / data analyst, with more than half of that in healthcare.  He has been a REDCap Administrator for over 10 years and has won numerous awards for training documentation and community involvement.  He has extensive experience in survey design and methodology, data quality, regulations, validation, and training users.  He volunteers with a number of organizations supporting marginalized populations in data science, data management, and various committees on REDCap.  When he’s not geeking out in front of a computer, he’s spending time with his wife and young son.
 
 [{{< iconify mynaui:globe >}} Website](https://www.womenscollegehospital.ca/meet-chris-battiston/){.btn .icon-link}
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/darthpathos76){.btn .icon-link}
 
-## Hannah Frick
+### J. Audra Williams 
 
-[pointblank, was I expecting this? (Lightning talks)](talks.qmd#lightning-talks)
-
-![](images/people/hannah-frick.jpg){.person-img width="30%"}
-
-Hannah Frick is a software engineer at Posit, working mainly on the tidymodels framework. She holds a PhD in statistics and is a co-founder of R-Ladies Global.
-
-[{{< iconify mynaui:globe >}} Website](https://www.frick.ws/){.btn .icon-link}
-[{{< iconify simple-icons:github >}} GitHub](https://github.com/hfrick){.btn .icon-link}
-[{{< iconify mdi:mastodon >}} Mastodon](https://mastodon.social/@hfrick){.btn .icon-link}
-[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/frick.ws){.btn .icon-link}
-[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/hannah-frick){.btn .icon-link}
-
-## Hanne Oberman
-
-[Seeing what's missing: Visualization of incomplete and imputed data (Lightning talks)](talks.qmd#lightning-talks)
-
-![](images/people/hanne-oberman.jpeg){.person-img width="30%"}
-
-Hanne is a PhD candidate in the department of Methodology and Statistics at Utrecht University, The Netherlands. As part of their research on missing data methods, Hanne created and maintains R packages for valid analyses on incomplete datasets.
-
-[{{< iconify mynaui:globe >}} Website](https://hanneoberman.github.io){.btn .icon-link}
-[{{< iconify simple-icons:github >}} GitHub](https://github.com/hanneoberman/){.btn .icon-link}
-[{{< iconify mdi:mastodon >}} Mastodon](https://mastodon.social/@oberman){.btn .icon-link}
-[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/oberman.bsky.social){.btn .icon-link}
-[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/hanneoberman/){.btn .icon-link}
-
-## J. Audra Williams 
-
-[Belonging is political: Measuring queer sense of belonging in Higher Ed using R (Talks Session 2)](talks.qmd#talks_2)
+[Belonging is political: Measuring queer sense of belonging in Higher Ed using R](talks.qmd#talks_2)
 
 ![](images/people/j-audra-williams.jpg){.person-img width="30%"}
 
@@ -51,9 +50,9 @@ J. Audra Williams (he/they) is second-year Educational Policy and Evaluation PhD
 
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/jawillms/){.btn .icon-link}
 
-## Jasmine Daly
+### Jasmine Daly
 
-[High, Low, Jack, & Claude: AI-assisted Shiny development (Talks Session 1)](talks.qmd#talks_1)
+[High, Low, Jack, & Claude: AI-assisted Shiny development](talks.qmd#talks_1)
 
 ![](images/people/jasmine-daly.jpg){.person-img width="30%"}
 
@@ -66,48 +65,30 @@ Jasmine Daly builds human-centered decision systems for nonprofits and mission-d
 [{{< iconify mdi:linkedin >}} LinkedIn (personal)](https://www.linkedin.com/in/jasminemdaly/){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn (professional)](https://www.linkedin.com/company/dalyanalytics/){.btn .icon-link}
 
-## Joshua Gutoskie
+### Joshua Gutoskie
 
-[Migrating legacy code to R: A team-based approach to open-source adoption (Talks Session 2)](talks.qmd#talks_2)
+[Migrating legacy code to R: A team-based approach to open-source adoption](talks.qmd#talks_2)
 
 ![](images/people/joshua-gutoskie.jpg){.person-img width="30%"}
 
 Joshua Gutoskie is a senior methodologist at Statistics Canada, specializing in survey methodology and statistical methods behind official statistics. He is currently focused on integrating open-source tools, like R and Git, into both new and legacy workflows, with an emphasis on team building and collaboration. Outside of work, Joshua is active in his local 2SLGBTQIA+ inclusive rugby club where he serves as captain of the men's+ team.
 
-## Kirstin Bott
+### Njoki Njuki
 
-[Beyond drag bingo: Building community at work (Lightning talks)](talks.qmd#lightning-talks)
-
-*Bio TBC*
-
-## Njoki Njuki
-
-[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny (Talks Session 1)](talks.qmd#talks_1)
+[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
 
 ![](images/people/njoki-njuki.jpg){.person-img width="30%"}
 
-*Bio TBC*
+Njoki Njuki is a biostatistics-trained data professional with over seven years of experience supporting clinical and epidemiological research using large electronic health record (EHR) and longitudinal datasets. She specialises in data preparation, cohort definition, and reproducible statistical programming in R for health research. Njoki holds a BSc in Biostatistics and is currently completing an MSc in Statistics and Data Science (Biostatistics) at Hasselt University. She has presented at international events such as Shiny Conference and the Manchester R User Group, and is an active member of the global R community, co-organising R-Ladies Remote.
 
-## Noah Pevie
+[{{< iconify mynaui:globe >}} Website](https://lucynjokinjuki.github.io/lucynjokinjuki/){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/LucyNjoki){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/njokinjuki.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/lucy-njoki/){.btn .icon-link}
 
-[Factor or network? Modeling the complexity of gender minority stress in transgender communities (Lightning talks)](talks.qmd#lightning-talks)
+### Ryan Timpe
 
-*Bio TBC*
-
-## Rafael Henry-Venson
-
-[Teaching pharmacokinetics with confidence: How R helps students “see” the science (Lightning talks)](talks.qmd#lightning-talks)
-
-![](images/people/rafael-henry-venson.jpg){.person-img width="30%"}
-
-I am a pharmacology and forensic toxicology expert with a career spanning the Brazilian Scientific Police, HTA consultancy, and academia. Currently, I balance teaching and research with Equality, Diversity, and Inclusion (EDI) leadership, which earned me a shortlisting for the 2025 THE Awards for Outstanding Contribution to EDI for my Rainbow Office Hours initiative. Beyond the classroom, I contribute to the global scientific community as an HTA consultant and Academic Editor for PLoS One.
-
-[{{< iconify simple-icons:linktree >}} LinkTree](https://linktr.ee/rafaelvenson){.btn .icon-link}
-[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/rafael-venson/){.btn .icon-link}
-
-## Ryan Timpe
-
-[The cheesecake ROI: Building a marketing mix model with tidymodels and The Golden Girls (Talks Session 2)](talks.qmd#talks_2)
+[The cheesecake ROI: Building a marketing mix model with tidymodels and The Golden Girls](talks.qmd#talks_2)
 
 ![](images/people/ryan-timpe.jpeg){.person-img width="30%"}
 
@@ -118,11 +99,11 @@ A lifelong enthusiast of math and those iconic plastic bricks, Ryan has been a d
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/ryantimpe.bsky.social){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/ryantimpe/){.btn .icon-link}
 
-## Tamires Martins
+### Tamires Martins
 
-[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny (Talks Session 1)](talks.qmd#talks_1)
+[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
 
-![](images/people/tamires-martins.png){.people-img width="30%"}
+![](images/people/tamires-martins.png){.person-img width="30%"}
 
 Tamires Martins is a PhD student in Pharmacology at UFSC (Brazil), working on biomarkers of depression and animal behavior. She develops computational tools for biomedical evidence synthesis, with interests in automation, visualization, and reproducible research.
 
@@ -130,9 +111,67 @@ Tamires Martins is a PhD student in Pharmacology at UFSC (Brazil), working on bi
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/tamires-martins-7a9743235/){.btn .icon-link}
 [{{< iconify academicons:researchgate-square >}} ResearchGate](https://www.researchgate.net/profile/Tamires-Martins-2?ev=hdr_xprf){.btn .icon-link}
 
-## Trystan Washburne
+## Lightning talk speakers
 
-[The two step method: Accurate record keeping for sex and gender (Lightning talks)](talks.qmd#lightning-talks)
+### Hannah Frick
+
+[pointblank, was I expecting this?](talks.qmd#lightning-talks)
+
+![](images/people/hannah-frick.jpg){.person-img width="30%"}
+
+Hannah Frick is a software engineer at Posit, working mainly on the tidymodels framework. She holds a PhD in statistics and is a co-founder of R-Ladies Global.
+
+[{{< iconify mynaui:globe >}} Website](https://www.frick.ws/){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/hfrick){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](https://mastodon.social/@hfrick){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/frick.ws){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/hannah-frick){.btn .icon-link}
+
+### Hanne Oberman
+
+[Seeing what's missing: Visualization of incomplete and imputed data](talks.qmd#lightning-talks)
+
+![](images/people/hanne-oberman.jpeg){.person-img width="30%"}
+
+Hanne is a PhD candidate in the department of Methodology and Statistics at Utrecht University, The Netherlands. As part of their research on missing data methods, Hanne created and maintains R packages for valid analyses on incomplete datasets.
+
+[{{< iconify mynaui:globe >}} Website](https://hanneoberman.github.io){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/hanneoberman/){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](https://mastodon.social/@oberman){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/oberman.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/hanneoberman/){.btn .icon-link}
+
+### Kristin Bott
+
+[Beyond drag bingo: Building community at work](talks.qmd#lightning-talks)
+
+![](images/people/kristin-bott.png){.person-img width="30%"}
+
+Kristin manages the Posit Academy data science education program, including the fantastic mentor crew, and supports learners as they build skills in both code and collaboration. With a background in natural science, teaching, and research, Kristin is interested in making technical topics accessible through the power of learning communities, ultimately empowering individuals to do great work.
+
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/RhoBott){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/kristin-bott){.btn .icon-link}
+
+### Noah Pevie
+
+[Factor or network? Modeling the complexity of gender minority stress in transgender communities](talks.qmd#lightning-talks)
+
+*Bio TBC*
+
+### Rafael Henry-Venson
+
+[Teaching pharmacokinetics with confidence: How R helps students “see” the science](talks.qmd#lightning-talks)
+
+![](images/people/rafael-henry-venson.jpg){.person-img width="30%"}
+
+I am a pharmacology and forensic toxicology expert with a career spanning the Brazilian Scientific Police, HTA consultancy, and academia. Currently, I balance teaching and research with Equality, Diversity, and Inclusion (EDI) leadership, which earned me a shortlisting for the 2025 THE Awards for Outstanding Contribution to EDI for my Rainbow Office Hours initiative. Beyond the classroom, I contribute to the global scientific community as an HTA consultant and Academic Editor for PLoS One.
+
+[{{< iconify simple-icons:linktree >}} LinkTree](https://linktr.ee/rafaelvenson){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/rafael-venson/){.btn .icon-link}
+
+### Trystan Washburne
+
+[The two step method: Accurate record keeping for sex and gender](talks.qmd#lightning-talks)
 
 ![](images/people/joshua-gutoskie.jpg){.person-img width="30%"}
 
@@ -140,9 +179,9 @@ Trystan is a PhD student studying at the University of Stirling, where he's exam
 
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/trystan-washburne-1b905a3a9/){.btn .icon-link}
 
-## Ursula Kaczmarek
+### Ursula Kaczmarek
 
-[Elevating open data: Creating 3D visuals with NYC ppen climate data (Lightning talks)](talks.qmd#lightning-talks)
+[Elevating open data: Creating 3D visuals with NYC ppen climate data](talks.qmd#lightning-talks)
 
 ![](images/people/ursula-kaczmarek.jpg){.person-img width="30%"}
 
