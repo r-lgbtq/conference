@@ -34,7 +34,17 @@ Generously supported by the [Software Sustainability Institute](https://software
 ![](images/SSI_PRIMARY_small.png)
 
 ![](images/JumpingRivers_Primary.png)
+
 :::
 
+We are also extremely grateful to the following individuals and institutions for donations/solidarity payments to support the rainbowR conference and community:
+
+*Arranged alphabetically by first name*
+
+- Digital Research Academy
+- Matt Kerlogue 
+- Ryan Timpe
+- *four supporters who prefer to remain anonymous*
+
 ## Contact
-Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org)
+Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
