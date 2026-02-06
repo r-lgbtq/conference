@@ -131,7 +131,7 @@ Hannah Frick is a software engineer at Posit, working mainly on the tidymodels f
 
 [Seeing what's missing: Visualization of incomplete and imputed data](talks.qmd#lightning-talks)
 
-![](images/people/hanne-oberman.jpeg){.person-img width="30%"}
+![](images/people/hanne-oberman.jpg){.person-img width="30%"}
 
 Hanne is a PhD candidate in the department of Methodology and Statistics at Utrecht University, The Netherlands. As part of their research on missing data methods, Hanne created and maintains R packages for valid analyses on incomplete datasets.
 
