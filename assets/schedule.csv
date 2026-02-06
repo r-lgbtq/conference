@@ -11,5 +11,5 @@ day,time_start,time_end,event,speaker
 26/02/2026,18:30:00,19:15:00,[Lightning talks](../talks.html#lightning_talks),Kristin Bott<br>Hannah Frick<br>Rafael Henry-Venson<br>Ursula Kaczmarek<br>Hanne Oberman<br>Noah Pevie<br>Trystan Washburne
 26/02/2026,19:15:00,20:15:00,[Talks II](../talks.html#talks_2),Joshua Gutoskie<br>Ryan Timpe<br>J. Audra Williams
 26/02/2026,20:15:00,20:30:00,Break,
-26/02/2026,20:30:00,21:15:00,**Keynote**<br>[What's new with LLMs for data science](../talks.html#keynote_hadley),Hadley Wickham
+26/02/2026,20:30:00,21:15:00,**Keynote**<br>[Claude Code for R](../talks.html#keynote_hadley),Hadley Wickham
 26/02/2026,21:15:00,21:30:00,Closing,Ella Kaye
