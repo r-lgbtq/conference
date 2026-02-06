@@ -156,7 +156,13 @@ Kristin manages the Posit Academy data science education program, including the 
 
 [Factor or network? Modeling the complexity of gender minority stress in transgender communities](talks.qmd#lightning-talks)
 
-*Bio TBC*
+![](images/people/noah-pevie.jpg){.person-img width="30%"}
+
+Noah is a Social Psychology PhD Student @ University of Western Ontario. He is interested in quantitative methods and trans research. 
+
+[{{< iconify mynaui:globe >}} Website](https://catchingsplinters.wordpress.com/){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/noahpevie.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/noahpevie){.btn .icon-link}
 
 ### Rafael Henry-Venson
 
