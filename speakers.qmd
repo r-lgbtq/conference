@@ -173,7 +173,7 @@ I am a pharmacology and forensic toxicology expert with a career spanning the Br
 
 [The two step method: Accurate record keeping for sex and gender](talks.qmd#lightning-talks)
 
-![](images/people/joshua-gutoskie.jpg){.person-img width="30%"}
+![](images/people/trystran-washburne.jpg){.person-img width="30%"}
 
 Trystan is a PhD student studying at the University of Stirling, where he's examining the ways in which transgender participants are recorded in survey data.  When he's not collecting terrible examples of sex and gender questions found in the wild, he enjoys reading fiction and practicing martial arts.
 
