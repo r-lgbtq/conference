@@ -26,14 +26,20 @@ Find out more at [rainbowr.org](https://rainbowr.org).
 - **February 25, 2026**: Workshops
 - **February 26, 2026**: Talks 
 
-## Sponsored by
-Generously supported by the [Software Sustainability Institute](https://software.ac.uk) and [Jumping Rivers](https://www.jumpingrivers.com).
+## Sponsored and supported by
+Generously sponsored by the [Software Sustainability Institute](https://software.ac.uk), [Jumping Rivers](https://www.jumpingrivers.com) and [OLS](https://we-are-ols.org).
 
-::: {layout="[[55, -5, 40]]"}
+::: {layout="[[55, -5, 40]]" style="margin-bottom: 2em;"}
 
-![](images/SSI_PRIMARY_small.png)
+![](images/sponsors/SSI_PRIMARY_small.png)
 
-![](images/JumpingRivers_Primary.png)
+![](images/sponsors/JumpingRivers_Primary.png)
+
+:::
+
+::: {layout="[[25, -75]]"}
+
+![](images/sponsors/ols-transparent-bg.png)
 
 :::
 
@@ -41,16 +47,25 @@ We are also extremely grateful to the following individuals and institutions for
 
 *Arranged alphabetically by first name*
 
+- Bastián Olea Herrera
 - Cody Ingle
 - Digital Research Academy
 - Erin Becker
+- James Kilgour
+- Kristin Bott
 - Krupamani Kanthaiah
+- LMP Consulting, LLC
+- Lauren Price, Houston Texas USA
+- Logan King
 - Luke Morris
 - Matt Kerlogue 
 - Dr. Matt L. Miller, Oakland University Department of Psychology
+- Max Czapanskiy, UCSB
+- Rebecca Killick
 - Ryan Timpe
+- Tegan Crossman
 - the-tave
-- *eight supporters who prefer to remain anonymous*
+- *eleven supporters who prefer to remain anonymous*
 
 ## Contact
 Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
