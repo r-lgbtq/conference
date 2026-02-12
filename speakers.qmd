@@ -133,13 +133,14 @@ Hannah Frick is a software engineer at Posit, working mainly on the tidymodels f
 
 ![](images/people/hanne-oberman.jpg){.person-img width="30%"}
 
-Hanne is a PhD candidate in the department of Methodology and Statistics at Utrecht University, The Netherlands. As part of their research on missing data methods, Hanne created and maintains R packages for valid analyses on incomplete datasets.
+Hanne is a statistician interested in data visualization, interdisciplinarity, and open science. They're finishing a PhD on missing data methodology at Utrecht University in Utrecht (The Netherlands), where they live with their partner and sing in the queer choir DynamiQ Voices.
 
 [{{< iconify mynaui:globe >}} Website](https://hanneoberman.github.io){.btn .icon-link}
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/hanneoberman/){.btn .icon-link}
 [{{< iconify mdi:mastodon >}} Mastodon](https://mastodon.social/@oberman){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/oberman.bsky.social){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/hanneoberman/){.btn .icon-link}
+[{{< iconify tdesign:music-filled >}} DynamiQ Voices](https://dynamiqvoices.com/){.btn .icon-link}
 
 ### Kristin Bott
 
@@ -194,7 +195,7 @@ Trystan is a PhD student studying at the University of Stirling, where he's exam
 Ursula is a Brooklyn, New York-based data scientist focused on civic tech. She concentrates her research on voter engagement, economic development, and public infrastructure and services. She began her career as a lawyer working on open data policy and spent three years working on civic projects in Tbilisi, Georgia. 
 
 [{{< iconify mynaui:globe >}} Website (personal)](https://ursulams.github.io){.btn .icon-link}
-[{{< iconify mynaui:globe >}} Website (professions)](https://nyc-dssg.org){.btn .icon-link}
+[{{< iconify mynaui:globe >}} Website (professional)](https://nyc-dssg.org){.btn .icon-link}
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/ursulams){.btn .icon-link}
 [{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@ursula){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/ursula.fosstodon.org.ap.brid.gy){.btn .icon-link}
