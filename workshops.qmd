@@ -26,13 +26,13 @@ This hands-on workshop offers a supportive introduction to programming in R for 
 :::: {.columns}
 
 ::: {.column}
-Allissa Dillman, PhD 
+[Allissa Dillman, PhD](speakers.qmd#allissa-dillman)
 
 ![](/images/people/allissa-dillman.png){.person-img width="60%"}  
 :::
 
 ::: {.column}
-Padmashri Saravanan, MHS, MSc 
+[Padmashri Saravanan, MHS, MSc](speakers.qmd#padmashri-saravanan)
 
 ![](/images/people/padmashri-saravanan.png){.person-img width="60%"}
 :::
@@ -54,7 +54,7 @@ Full details about the workshop, prerequisites, and computer set-up are availabl
 
 :::: {.columns}
 ::: {.column}
-Rhian Davies
+[Rhian Davies](speakers.qmd#rhian-davies)
 
 ![](/images/people/rhian-davies.png){.person-img width="60%"}  
 :::
@@ -71,13 +71,13 @@ In 2021/2022 the UK censuses represented LGBTQ+ people in new ways. The aim of t
 :::: {.columns}
 
 ::: {.column}
-Kirstie Ken English
+[Kirstie Ken English](speakers.qmd#kirstie-ken-english)
 
 ![](/images/people/kirstie-ken-english.jpeg){.person-img width="60%"}  
 :::
 
 ::: {.column}
-Nicola Rennie
+[Nicola Rennie](speakers.qmd#nicola-rennie)
 
 ![](/images/people/nicola-rennie.png){.person-img width="60%"}
 :::
@@ -108,7 +108,7 @@ See the workshop webpage, <https://thisisnic.github.io/rainbowrworkshop/>, for f
 
 :::: {.columns}
 ::: {.column}
-Nic Crane
+[Nic Crane](speakers.qmd#nic-crane)
 
 ![](/images/people/nic-crane.png){.person-img width="60%"}  
 :::

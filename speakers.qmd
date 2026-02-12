@@ -2,7 +2,7 @@
 title: Speakers
 toc: true
 ---
-*Arranged alphabetically by first name, within talk category*
+*Arranged alphabetically by first name, within each section*
 
 ## Keynote speakers
 
@@ -199,3 +199,81 @@ Ursula is a Brooklyn, New York-based data scientist focused on civic tech. She c
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/ursulams){.btn .icon-link}
 [{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@ursula){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/ursula.fosstodon.org.ap.brid.gy){.btn .icon-link}
+
+## Workshop leaders
+
+### Allissa Dillman
+
+[Introduction to R](workshops.qmd#introduction-to-r)
+
+![](images/people/allissa-dillman.png){.person-img width="30%"}
+
+Allissa in the CEO and Founder of BioData Sage. She previously spent over a decade at the Hational Institute of Health (NIH), culminating in her pivotal role as the workforce development and community engagement lead for the Office of Data Science Strategy (ODSS). She has been a driving force in breaking barriers to entry in data science and cloud computing. Her innovative initiatives include the creation of cutting-edge train-the-trainer programs tailored for STEM educators in under-resourced schools.  Moreover, she has been a catalyst in curating data science training programs for students at Historically Black Colleges and Universities (HBCUs), Minority-Serving Institutions (MSIs), and Hispanic-Serving Institutions (HSIs).​
+
+[{{< iconify mynaui:globe >}} Website (BioSage Data)](https://www.biodatasage.com){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/allissadillman){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/allissa-dillman/){.btn .icon-link}
+
+### Kirstie Ken English
+
+[Visualising the UK's LGBTQ+ population](workshops.qmd#visualising-the-uks-lgbtq-population)
+
+![](images/people/kirstie-ken-english.jpeg){.person-img width="30%"}
+
+Kirstie Ken is a mixed methods researcher & quantitative methods lecturer. Their work focuses on the production and use of equality, diversity and inclusion(EDI) data, gender, sexuality and human rights.
+
+[{{< iconify mynaui:globe >}} Website](https://kenglish95.github.io){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/kenglish.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/dr-kirstie-ken-english-a38770151/){.btn .icon-link}
+
+### Nic Crane
+
+[LLMs in R for Data Analysis](workshops.qmd#llms-in-r-for-data-analysis)
+
+![](images/people/nic-crane.png){.person-img width="30%"}
+
+Nic Crane is an R educator and consultant who loves to experiment with LLMs and AI.  They are also one of the maintainers of the Arrow R package and co-author of Scaling Up with R and Arrow.
+
+[{{< iconify mynaui:globe >}} Website](https://niccrane.com){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/thisisnic){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/niccrane.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/niccrane/){.btn .icon-link}
+
+### Nicola Rennie
+
+[Visualising the UK's LGBTQ+ population](workshops.qmd#visualising-the-uks-lgbtq-population)
+
+![](images/people/nicola-rennie.png){.person-img width="30%"}
+
+Nicola Rennie is a data visualisation specialist with a background in statistics and data science, who is interested in understanding how to effectively communicate complex quantitative ideas in an accessible way. She advocates for using open source tools, and has experience in D3, Svelte, R, and Python.
+
+[{{< iconify mynaui:globe >}} Website](https://nrennie.rbind.io){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/nrennie){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@nrennie){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/nrennie.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/nicola-rennie/){.btn .icon-link}
+
+### Padmashri Saravanan
+
+[Introduction to R](workshops.qmd#introduction-to-r)
+
+![](images/people/padmashri-saravanan.png){.person-img width="30%"}
+
+Throughout their career, Padma has centered the LGBTQ+ and BIPOC community through research, advocacy, and efforts to increase educational access. Previously, Padma served as a Data Science Fellow at the National Institutes of Health and led data analysis efforts in LGBTQ+ health research at Johns Hopkins School of Public Health and School of Medicine. As an educator, Padma has taught mathematics, computer science, and R programming to middle and high school students, and data science to public health practitioners. They also bring six years of global community organizing experience to their work.
+
+[{{< iconify mynaui:globe >}} Website (BioSage Data)](https://www.biodatasage.com){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/padmashris/){.btn .icon-link}
+
+### Rhian Davies
+
+[If You Can Write a Function, You Can Build an R Package](workshops.qmd#if-you-can-write-a-function-you-can-build-an-r-package)
+
+![](images/people/rhian-davies.png){.person-img width="30%"}
+
+Rhian is a Senior Data Scientist at The Strategy Unit (NHS) where she uses R to build open-source Reproducible Analytical Pipelines. She supports public health analysts to work smarter with data, developing their skills, confidence, and championing data science best practices.
+
+[{{< iconify mynaui:globe >}} Website](https://rhian.rbind.io/){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/statsrhian){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@statsrhian){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/statsrhian.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/statsrhian/){.btn .icon-link}
