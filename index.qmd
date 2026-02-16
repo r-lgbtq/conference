@@ -49,6 +49,7 @@ We are also extremely grateful to the following individuals and institutions for
 
 - Bastián Olea Herrera
 - Cody Ingle
+- Colin Longstaff
 - Digital Research Academy
 - Erin Becker
 - James Kilgour
@@ -63,9 +64,10 @@ We are also extremely grateful to the following individuals and institutions for
 - Max Czapanskiy, UCSB
 - Rebecca Killick
 - Ryan Timpe
+- Ted Laderas
 - Tegan Crossman
 - the-tave
-- *eleven supporters who prefer to remain anonymous*
+- *fifteen supporters who prefer to remain anonymous*
 
 ## Contact
 Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
