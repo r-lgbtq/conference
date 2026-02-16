@@ -208,9 +208,9 @@ Ursula is a Brooklyn, New York-based data scientist focused on civic tech. She c
 
 ![](images/people/allissa-dillman.png){.person-img width="30%"}
 
-Allissa in the CEO and Founder of BioData Sage. She previously spent over a decade at the Hational Institute of Health (NIH), culminating in her pivotal role as the workforce development and community engagement lead for the Office of Data Science Strategy (ODSS). She has been a driving force in breaking barriers to entry in data science and cloud computing. Her innovative initiatives include the creation of cutting-edge train-the-trainer programs tailored for STEM educators in under-resourced schools.  Moreover, she has been a catalyst in curating data science training programs for students at Historically Black Colleges and Universities (HBCUs), Minority-Serving Institutions (MSIs), and Hispanic-Serving Institutions (HSIs).​
+Dr. Dillman has been a driving force in breaking barriers to entry in data science and cloud computing. Her innovative initiatives include the creation of cutting-edge train-the-trainer programs tailored for STEM educators in under-resourced schools.  Moreover, she has been a catalyst in curating data science training programs for students at Historically Black Colleges and Universities (HBCUs), Minority-Serving Institutions (MSIs), and Hispanic-Serving Institutions (HSIs).
 
-[{{< iconify mynaui:globe >}} Website (BioSage Data)](https://www.biodatasage.com){.btn .icon-link}
+[{{< iconify mynaui:globe >}} Website (BioData Sage)](https://www.biodatasage.com){.btn .icon-link}
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/allissadillman){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/allissa-dillman/){.btn .icon-link}
 
@@ -261,7 +261,7 @@ Nicola Rennie is a data visualisation specialist with a background in statistics
 
 Throughout their career, Padma has centered the LGBTQ+ and BIPOC community through research, advocacy, and efforts to increase educational access. Previously, Padma served as a Data Science Fellow at the National Institutes of Health and led data analysis efforts in LGBTQ+ health research at Johns Hopkins School of Public Health and School of Medicine. As an educator, Padma has taught mathematics, computer science, and R programming to middle and high school students, and data science to public health practitioners. They also bring six years of global community organizing experience to their work.
 
-[{{< iconify mynaui:globe >}} Website (BioSage Data)](https://www.biodatasage.com){.btn .icon-link}
+[{{< iconify mynaui:globe >}} Website (BioData Sage)](https://www.biodatasage.com){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/padmashris/){.btn .icon-link}
 
 ### Rhian Davies
