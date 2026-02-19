@@ -75,7 +75,7 @@ Joshua Gutoskie is a senior methodologist at Statistics Canada, specializing in 
 
 ### Njoki Njuki
 
-[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
+[Queer stories through data: Highlighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
 
 ![](images/people/njoki-njuki.jpg){.person-img width="30%"}
 
@@ -101,7 +101,7 @@ A lifelong enthusiast of math and those iconic plastic bricks, Ryan has been a d
 
 ### Tamires Martins
 
-[Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
+[Queer stories through data: Highlighting LGBTQ+ cinema with R and Shiny](talks.qmd#talks_1)
 
 ![](images/people/tamires-martins.png){.person-img width="30%"}
 

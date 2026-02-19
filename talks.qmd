@@ -47,7 +47,7 @@ Bringing a card game from the dining table to the browser means translating shuf
 :::
 
 ::: {.callout-warning collapse=true icon=false appearance="simple"}
-### *Queer stories through data: Lighting LGBTQ+ cinema with R and Shiny*<br>[**Njoki Njuki**](speakers.qmd#njoki-njuki) and [**Tamires Martins**](speakers.qmd#tamires-martins)
+### *Queer stories through data: Highlighting LGBTQ+ cinema with R and Shiny*<br>[**Njoki Njuki**](speakers.qmd#njoki-njuki) and [**Tamires Martins**](speakers.qmd#tamires-martins)
 **Abstract:**
 Queer stories have existed in film since the earliest decades of cinema, yet identifying and analysing them at scale remains challenging. Queer cinema reflects the social status and lived realities of LGBTQIA+ communities by portraying how norms, power structures, and cultural expectations shape identities and relationships. However, public movie databases often provide incomplete or inconsistently applied metadata, and queer-focused datasets are limited. This project addresses these gaps through the LGBTQ+ Movies Explorer, a Shiny application built in R that visualises patterns of LGBTQ+ representation in films worldwide.
 The app uses the openly available tidyrainbow LGBTQ+ Movie Database, curated by the R-LGBTQ+ community and derived from TMDb metadata spanning 1882–2022. Through tidyverse workflows, text-mining techniques, and interactive visualisation tools, users can explore LGBTQ+ themes across time, genres, languages, and narrative descriptions. A built-in chatbot assistant supports conversational queries about individual films.
