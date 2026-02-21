@@ -12,7 +12,7 @@ toc: true
 
 ![](images/people/daphna-harel.png){.person-img width="30%"}
 
-Daphna Harel (she/her) is an Associate Professor of Applied Statistics at the Steinhardt School of Culture, Education, and Human Development at New York University. Her research focuses on survey design and analysis, particularly in situations where obtaining meaningful measurements is hard. She aims to improve the quality of survey research by designing better questions, reducing burden on survey respondents, and providing better and more advanced methods for data analysis. Daphna believes that statistical analysis should be conducted in an effort to improve society and quality of life for all people. Her recent work with the NYU QUEER data lab focuses on work at the intersection of LGBTQIA+ lives and statistics, developing new methods to better understand and serve the community. 
+Daphna Harel (she/her) is an Associate Professor of Applied Statistics at the Steinhardt School of Culture, Education, and Human Development at New York University. Her research focuses on survey design and analysis, particularly in situations where obtaining meaningful measurements is hard. She aims to improve the quality of survey research by designing better questions, reducing burden on survey respondents, and providing better and more advanced methods for data analysis. Daphna believes that statistical analysis should be conducted in an effort to improve society and quality of life for all people. Her recent work with the NYU QUEER data lab focuses on work at the intersection of LGBTQIA+ lives and statistics, developing new methods to better understand and serve the community.
 
 [{{< iconify mynaui:globe >}} Website](https://steinhardt.nyu.edu/people/daphna-harel){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/daphna.bsky.social){.btn .icon-link}
@@ -40,7 +40,7 @@ Chris has over 20 years’ experience as a database administrator / data analyst
 [{{< iconify mynaui:globe >}} Website](https://www.womenscollegehospital.ca/meet-chris-battiston/){.btn .icon-link}
 [{{< iconify simple-icons:github >}} GitHub](https://github.com/darthpathos76){.btn .icon-link}
 
-### J. Audra Williams 
+### J. Audra Williams
 
 [Belonging is political: Measuring queer sense of belonging in Higher Ed using R](talks.qmd#talks_2)
 
@@ -159,7 +159,7 @@ Kristin manages the Posit Academy data science education program, including the 
 
 ![](images/people/noah-pevie.jpg){.person-img width="30%"}
 
-Noah is a Social Psychology PhD Student @ University of Western Ontario. He is interested in quantitative methods and trans research. 
+Noah is a Social Psychology PhD Student @ University of Western Ontario. He is interested in quantitative methods and trans research.
 
 [{{< iconify mynaui:globe >}} Website](https://catchingsplinters.wordpress.com/){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/noahpevie.bsky.social){.btn .icon-link}
@@ -192,7 +192,7 @@ Trystan is a PhD student studying at the University of Stirling, where he's exam
 
 ![](images/people/ursula-kaczmarek.jpg){.person-img width="30%"}
 
-Ursula is a Brooklyn, New York-based data scientist focused on civic tech. She concentrates her research on voter engagement, economic development, and public infrastructure and services. She began her career as a lawyer working on open data policy and spent three years working on civic projects in Tbilisi, Georgia. 
+Ursula is a Brooklyn, New York-based data scientist focused on civic tech. She concentrates her research on voter engagement, economic development, and public infrastructure and services. She began her career as a lawyer working on open data policy and spent three years working on civic projects in Tbilisi, Georgia.
 
 [{{< iconify mynaui:globe >}} Website (personal)](https://ursulams.github.io){.btn .icon-link}
 [{{< iconify mynaui:globe >}} Website (professional)](https://nyc-dssg.org){.btn .icon-link}
@@ -277,3 +277,28 @@ Rhian is a Senior Data Scientist at The Strategy Unit (NHS) where she uses R to 
 [{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@statsrhian){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/statsrhian.bsky.social){.btn .icon-link}
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/statsrhian/){.btn .icon-link}
+
+## Social activity leaders
+
+### Damie Pak
+
+[Quiz and social](socials.qmd#quiz-and-social)
+
+### Libby Heeren
+
+[Quiz and social](socials.qmd#quiz-and-social)
+
+![](images/people/libby-heeren.jpeg){.person-img width="30%"}
+
+Libby is a data science educator and community builder who wants to help you cultivate a community of practice for yourself. She believes in making genuine human connections, the power of vulnerability, and that we all benefit when we show up as our whole selves.
+
+Libby hosts the Data Science Hangout, a casual, data science career-focused community call where attendees ask questions of a different featured leader each week, as well as the Data Science Lab, a messy, fun space where the coding is live and attendee questions are the stars of the show.
+
+[{{< iconify mynaui:globe >}} Website (personal)](https://libbyheeren.com/){.btn .icon-link}
+[{{< iconify mynaui:globe >}} Website (professional)](https://posit.co/data-science-hangout/){.btn .icon-link}
+[{{< iconify mdi:rss >}} Blog](https://libbyheeren.com/blog){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/LibbyHeeren){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/libbyheeren.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/libbyheeren/){.btn .icon-link}
+[{{< iconify mdi:calendar >}} Data Science Hangout](https://pos.it/dsh){.icon-link}
+[{{< iconify mdi:calendar >}} Data Science Lab](https://pos.it/dslab){.icon-link}
