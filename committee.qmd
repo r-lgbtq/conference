@@ -15,7 +15,7 @@ toc: true
 
 An R user for both work and play! Damie uses R for mathematical modeling but also to make silly things.
 
-[{{< iconify mynaui:globe >}} Website](pakdamie.github.io){.btn .icon-link}
+[{{< iconify mynaui:globe >}} Website](https://pakdamie.github.io){.btn .icon-link}
 
 ### Daniel Sjoberg (advisory)
 
