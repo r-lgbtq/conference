@@ -1,14 +1,25 @@
 ---
 title: "Committee"
+toc: true
 ---
 
 *Arranged alphabetically by first name*
 
 ### Catherine Mercer
 
+[{{< iconify mynaui:globe >}} Website](https://www.stir.ac.uk/people/1667811){.btn .icon-link}
+
 ### Damie Pak
 
+![](images/people/damie-pak.png){.person-img width="30%"}
+
+An R user for both work and play! Damie uses R for mathematical modeling but also to make silly things.
+
+[{{< iconify mynaui:globe >}} Website](pakdamie.github.io){.btn .icon-link}
+
 ### Daniel Sjoberg (advisory)
+
+[{{< iconify mynaui:globe >}} Website](https://www.danieldsjoberg.com){.btn .icon-link}
 
 ### Ella Kaye (chair)
 
@@ -23,6 +34,8 @@ Ella is a Senior Research Software Engineer, working to increase sustainability 
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/ellakaye){.btn .icon-link}
 
 ### James Williamson
+
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/northernmaps.bsky.social){.btn .icon-link}
 
 ### Katlyn Bagley-Sepsey
 
