@@ -53,8 +53,10 @@ We are also extremely grateful to the following individuals and institutions for
 - Colin Longstaff
 - Digital Research Academy
 - Erin Becker
+- Esther Plomp, Software Sustainability Institute / University of Aruba 
 - James Kilgour
 - James Williamson
+- Kalel Cascardi
 - Kristin Bott
 - Krupamani Kanthaiah
 - LMP Consulting, LLC
