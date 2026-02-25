@@ -35,7 +35,7 @@ Hadley is Chief Scientist at Posit PBC, winner of the 2019 COPSS award, and a me
 
 [Intersectionality in LGBTQ+ health research: Practical analysis in R using upset plots)](talks.qmd#talks_1)
 
-![](images/people/chris-b){.person-img width="30%"}
+![](images/people/chris-battiston.png){.person-img width="30%"}
 
 Chris has over 20 years’ experience as a database administrator / data analyst, with more than half of that in healthcare.  He has been a REDCap Administrator for over 10 years and has won numerous awards for training documentation and community involvement.  He has extensive experience in survey design and methodology, data quality, regulations, validation, and training users.  He volunteers with a number of organizations supporting marginalized populations in data science, data management, and various committees on REDCap.  When he’s not geeking out in front of a computer, he’s spending time with his wife and young son.
 
