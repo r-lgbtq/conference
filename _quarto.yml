@@ -11,19 +11,19 @@ website:
   favicon: images/rainbow-hex-square.png
   open-graph: true
   site-url: "https://conference.rainbowr.org"
-  # announcement:
-  #   icon: calendar-check
-  #   dismissable: true
-  #   content: "**[Registration is now open!](https://pretix.eu/rainbowr/conference-2026/)**"
-  #   type: primary
-  #   position: below-navbar
+  announcement:
+    icon: wave
+    dismissable: true
+    content: "Conference is now over! Go to the [after](https://conference.rainbowr.org/after) page for how to stay involved with rainbowR."
+    type: primary
+    position: below-navbar
   navbar:
     logo: images/rainbow-hex.png
     right:
       - href: index.qmd
         text: Home
-      - href: https://pretix.eu/rainbowr/conference-2026/
-        text: Register
+      - href: "after.qmd"
+        text: After
       - href: "schedule.qmd"
         text: Schedule
       - href: "talks.qmd"
