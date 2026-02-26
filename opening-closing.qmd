@@ -268,7 +268,15 @@ Also, the birds of a feather facilitators
 
 :::
 
+::: {.notes}
+Excepted 2 folks to do this. Floored by your support and generosity. Stands the community in good stead for the next year.
+:::
+
 ## {background-image="images/thank-you.svg" background-size="contain" footer="false" .inverse}
+
+::: {.notes}
+Thanks to you all for coming, for your enthusiasm, lively chat and thoughtful questions. We hope you'll stay engaged with the rainbowR community...
+:::
 
 
 # [rainbowR]{.yellow} {.inverse .larger150}
@@ -283,7 +291,7 @@ a [community]{.green} that
 ![](images/rainbowR-hex.svg)
 
 :::{.notes}
-So, if you're LGBTQ+ and want to join a vibrant and supportive community of fellow R enthusiasts, or you're someone interested in promoting LGBTQ+ people and issues in the R community and beyond, please visit the after page for next steps. We look forward to seeing you soon!
+So, if you're LGBTQ+ and want to join a vibrant and supportive community of fellow R enthusiasts, or you're someone interested in promoting LGBTQ+ people and issues in the R community and beyond, please visit the after page for next steps, e.g. how to stay connected, how to join the community, and future activities. We look forward to seeing you soon!
 
 That's a wrap!
 :::
