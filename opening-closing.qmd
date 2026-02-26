@@ -196,15 +196,80 @@ Hand over to Lea to introduce Daphna
 - how to stay involved
 :::
 
+## Committees {footer="false"}
+
+![](images/people/committee.svg){fig-align="center"}
+
+## Speakers {footer="false"}
+
+![](images/people/speakers.svg){fig-align="center"}
+
+## Workshop and social leaders {footer="false"}
+
+![](images/people/workshops-socials.svg){fig-align="center"}
+
+::: {.notes}
+Also, the birds of a feather facilitators
+:::
+
+## Sponsors and supporters
+
+::: {.columns}
+::: {.column width="35%"}
+![](images/sponsors/SSI_PRIMARY_small.png)
+:::
+
+::: {.column width="30%"}
+![](images/sponsors/JumpingRivers_Primary.png){width="80%"}
+:::
+
+::: {.column width="30%"}
+![](images/sponsors/ols-transparent-bg.png){width="60%"}
+:::
+
+:::
+
+## 51 folks who made donations/solitarity payments ❤️
+
+:::{.columns}
+::: {.column .smaller75}
+- Anastasia Voronkova
+- Bastián Olea Herrera
+- Cody Ingle
+- Colin Longstaff
+- Digital Research Academy
+- Erin Becker
+- Esther Plomp, Software Sustainability Institute / University of Aruba 
+- James Kilgour
+- James Williamson
+- Kalel Cascardi
+- Kristin Bott
+- Krupamani Kanthaiah
+- LMP Consulting, LLC
+- Lauren Price, Houston Texas USA
+:::
+
+::: {.column .smaller75}
+- Libby Heeren
+- Logan King
+- Luke Morris
+- Matt Kerlogue 
+- Dr. Matt L. Miller, Oakland University Department of Psychology
+- Max Czapanskiy, UCSB
+- Mickaël Durand, FNRS, UCLouvain
+- Rebecca Killick
+- Ryan Timpe
+- Ted Laderas
+- Tegan Crossman
+- the-tave
+- We All Count
+- *twenty-four supporters who prefer to remain anonymous*
+:::
+
+:::
+
 ## {background-image="images/thank-you.svg" background-size="contain" footer="false" .inverse}
 
-## Thank yous
-
-- speakers, workshop leaders, BoF facilitators
-- sponsors
-- supporters
-- committee
-- participants
 
 # [rainbowR]{.yellow} {.inverse .larger150}
 

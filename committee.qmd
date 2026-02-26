@@ -19,6 +19,8 @@ An R user for both work and play! Damie uses R for mathematical modeling but als
 
 ### Daniel Sjoberg (advisory)
 
+![](images/people/daniel-sjoberg.jpeg){.person-img width="30%"}
+
 [{{< iconify mynaui:globe >}} Website](https://www.danieldsjoberg.com){.btn .icon-link}
 
 ### Ella Kaye (chair)
@@ -34,6 +36,8 @@ Ella is a Senior Research Software Engineer, working to increase sustainability 
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/ellakaye){.btn .icon-link}
 
 ### James Williamson
+
+![](images/people/james-williamson.jpg){.person-img width="30%"}
 
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/northernmaps.bsky.social){.btn .icon-link}
 
