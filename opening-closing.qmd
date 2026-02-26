@@ -1,10 +1,15 @@
 ---
-title: A rainbowR Presentation
-subtitle: Subtitle
-author: Your Name
-date: last-modified
-date-format: long
+title: "Welcome to rainbowR 2026!"
 footer: <https://conference.rainbowr.org>
+title-slide-attributes:
+  data-background-image: images/rainbowr-conf-welcome.png
+  data-background-size: contain
+  data-footer: "false"
+  data-notes: |
+    - Introduce myself - co-founder and chair of rainbowR community
+    - Inaugural, excitment, size of conf, 85% new to rR
+    - What to expect from the day
+    - A little about the community generally
 format: 
   rainbowrpres-revealjs:
     progress: false
@@ -12,15 +17,15 @@ format:
     menu: false
 ---
 
-# Welcome to rainbowR conference 2026! {.inverse .larger200 .center-h}
-
-::: {.notes}
-- inaugural 
-- about the conference
-- about the community
-:::
-
 ## A safe and welcoming space for LGBTQ+ folks and allies
+
+```{=html}
+<style>
+  #title-slide > h1 {
+    display: none;
+  }
+</style>
+```
 
 [rainbowr.org/coc](https://rainbowr.org/coc){.larger200}
 
@@ -70,12 +75,34 @@ CoC is not punitative
 
 ## Recordings
 
-- Regular and lightning talks pre-recorded and will be shared afterwards
-- *Claude Code for R* will be recorded live 
-- *Studying queer data while living it* will **not** be recorded
-- Socials not recorded
+::: {columns}
+::: {.column .col-box-green width="32%"}
+### pre-recorded
+
+All regular and lightning talks
+:::
+
+::: {.column .col-box-yellow width="32%"}
+### recording live
+
+*Claude Code for R*
+:::
+
+::: {.column .col-box-red width="32%"}
+### not recorded
+
+*Studying queer data while living it: Positionality, power, and practice*
+
+Quiz, social, birds of a feather
+
+Workshops
+:::
+:::
+
 
 ::: {.notes}
+We want to balance being able to share material from the conference more widely with creating a safe environment for folks joining live.
+
 Zoom may ask you to agree to be recorded to join a meeting, but rest assured we will not be recording participants
 :::
 
@@ -83,23 +110,61 @@ Zoom may ask you to agree to be recorded to join a meeting, but rest assured we 
 
 - Use Q&A feature in Zoom for questions during sessions
 - Use Zoom chat for general chat
+- Be active!
 
-## Discord
+![](images/zoom-webinar-bar.png)
 
-- rainbowR conference 2026 server
+## {background-image="images/discord.png" background-size="contain" footer="false"}
+
+::: {.notes}
 - invitation link (*put in chat*)
+- Onboarding process - say hi in introductions
 - for *asynchronous* chat (not during talk sessions)
-- make and continue conversations
+- start and continue conversations
 - will exist beyond conference
+:::
 
 # [rainbowR]{.yellow} {.inverse .larger150}
 
 a [community]{.green} that
 [connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
 
-## What we do
+## {.inverse .larger200 .center-h .center}
 
-## How to join
+[meet-ups]{.green}
+
+[buddies]{.pink}
+
+[book club]{.orange}
+
+[tidyRainbow]{.red}
+
+. . .
+
+[rainbowr.org/join]{.yellow .larger150}
+
+::: {.notes}
+- meetups in two time-zones
+- link to conference buddies
+- LGBTQ+ datasets
+- join for LGBTQ+ folks (slack, email, newsletter)
+:::
+
+## {.center-h .inverse footer="false"}
+
+[rainbowr.org]{.larger250 .yellow}
+
+![](images/rainbowR-hex.svg)
+
+:::{.notes}
+So, if you're LGBTQ+ and want to join a vibrant and supportive community of fellow R enthusiasts, or you're someone interested in promoting LGBTQ+ people and issues in the R community and beyond, please visit our website, rainbowr.org, to get involved. Thank you.
+:::
+
+
+
+::: {.notes}
+Around 80% of LGBTQ+ folks who registered not (yet) members
+:::
 
 # Closing {.inverse}
 
