@@ -14,7 +14,7 @@ website:
   announcement:
     icon: collection-play
     dismissable: true
-    content: "Videos from the conference now on [YouTube](https://www.youtube.com/playlist?list=PLaSZCD8_cwh0MOQf1m8DrLheH1Tu0g2o_) and resource links added to [talks](https://conference.rainbowr.org/talks.html) and [workshops](https://conference.rainbowr.org/workshops.html) pages."
+    content: "Videos from the conference are now on [YouTube](https://www.youtube.com/playlist?list=PLaSZCD8_cwh0MOQf1m8DrLheH1Tu0g2o_) and resource links added to [talks](https://conference.rainbowr.org/talks.html) and [workshops](https://conference.rainbowr.org/workshops.html) pages."
     type: primary
     position: below-navbar
   navbar:
