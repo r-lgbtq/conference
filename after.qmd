@@ -1,5 +1,7 @@
 ![](images/thanks-attending.png)
 
+[{{< iconify mdi:youtube >}} Closing remarks](https://youtu.be/jAp09OUMd6g){.btn .icon-link}
+
 # What next?
 
 We hope you enjoyed the rainbowR conference!
@@ -12,6 +14,7 @@ If you'd like to stay involved with the rainbowR community, here are some things
 - Follow and engage with us on [BlueSky](https://bsky.app/profile/rainbowr.org), [Mastodon](https://tech.lgbt/@rainbowR), and [LinkedIn](https://www.linkedin.com/company/rainbowr)
 - Tell others about us!
 - Visit <https://rainbowr.org> to find out more
+- (Re)watch most talks from the conference on [YouTube](https://www.youtube.com/playlist?list=PLaSZCD8_cwh0MOQf1m8DrLheH1Tu0g2o_).
 
 ## LGBTQ+ folks
 - [Join rainbowR](https://rainbowr.org/join) to receive an invitation to our Slack and join our newsletter
